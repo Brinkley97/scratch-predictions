@@ -1,0 +1,73 @@
+Base Sentence,Sentence Label,Domain,Model Name,API Name,Batch ID,Template Number
+ Morgan Stanley observed that the net profit at ExxonMobil had remained stable in August 2024.,0,finance,gemma2-9b-it,GROQ_CLOUD,0,1
+"On  Wed, August 21, 2024,  Bloomberg monitored the revenue at Amazon changed.",0,finance,gemma2-9b-it,GROQ_CLOUD,0,2
+" JP Morgan noted on 08/21/2024, the  S&P 500 index fell.",0,finance,gemma2-9b-it,GROQ_CLOUD,0,3
+"According to Reuters, the  operating cash flow at Berkshire Hathaway rose in  2024/08/21.",0,finance,gemma2-9b-it,GROQ_CLOUD,0,4
+"In  Q3 of 2027,  a financial analyst envisioned that the  interest rates at the Federal Reserve decreased.",0,finance,gemma2-9b-it,GROQ_CLOUD,0,5
+" The  gross profit at Microsoft increased  in 2029 of Q3, according to  a research advisor.",0,finance,gemma2-9b-it,GROQ_CLOUD,0,6
+Morgan Stanley observed that the operating income at Microsoft had remained stable in 2027.,0,finance,llama-3.1-8b-instant,GROQ_CLOUD,0,1
+"On 08/21/2024, Goldman Sachs monitored the net profit at Apple and saw it changed.",0,finance,llama-3.1-8b-instant,GROQ_CLOUD,0,2
+"JPMorgan Chase noted on 21/08/2024, the revenue at Amazon fell.",0,finance,llama-3.1-8b-instant,GROQ_CLOUD,0,3
+"According to Fidelity, the stock price at Tesla rose Q3 of 2029.",0,finance,llama-3.1-8b-instant,GROQ_CLOUD,0,4
+"In 2024-08-21, Wells Fargo envisioned that the returns at emerging market equities decreased.",0,finance,llama-3.1-8b-instant,GROQ_CLOUD,0,5
+"Amazon stock price increased 2024/08/21, according to Morgan Stanley.",0,finance,llama-3.1-8b-instant,GROQ_CLOUD,0,6
+The World Health Organization observed that the obesity rates in children at schools globally remained stable from 2022 to 2023.,0,health,gemma2-9b-it,GROQ_CLOUD,0,1
+"On June 15, 2028, the CDC monitored that the vaccination adherence in rural communities changed.",0,health,gemma2-9b-it,GROQ_CLOUD,0,2
+" Dr. Smith noted on December 20, 2030, the prevalence of chronic diseases fell.",0,health,gemma2-9b-it,GROQ_CLOUD,0,3
+"According to a study by Johns Hopkins University, the average physical activity levels in urban areas rose in the summer of 2026.",0,health,gemma2-9b-it,GROQ_CLOUD,0,4
+"In 2027, Dr. Jones envisioned that the incidence of heart disease in the elderly decreased.",0,health,gemma2-9b-it,GROQ_CLOUD,0,5
+"The average daily calorie intake of patients at Mercy Hospital increased in Q2 of 2025, according to the hospital's nutritionist.",0,health,gemma2-9b-it,GROQ_CLOUD,0,6
+The American Heart Association observed that the patients' blood pressure at all hospitals in California increased from Q2 2022 to Q4 2022.,0,health,llama-3.1-8b-instant,GROQ_CLOUD,0,1
+"On 9/18/2030, the CDC monitored that vaccination rates at rural elementary schools changed.",0,health,llama-3.1-8b-instant,GROQ_CLOUD,0,2
+"Dr. Lee noted that on 11/15/2065, the cancer prevalence at regional hospitals fell.",0,health,llama-3.1-8b-instant,GROQ_CLOUD,0,3
+"According to Dr. Patel, the physical activity levels at university recreation centers rose on 2/22/2029.",0,health,llama-3.1-8b-instant,GROQ_CLOUD,0,4
+"In Q3 2028, Professor Chen envisioned that her patients' body mass index at the local clinic decreased.",0,health,llama-3.1-8b-instant,GROQ_CLOUD,0,5
+"The number of smokers in New York City increased on 4/12/2023, according to the New York City Department of Health.",0,health,llama-3.1-8b-instant,GROQ_CLOUD,0,6
+The Center for American Progress observed that the unemployment rate in rural communities had increased on 10/12/2028.,0,policy,gemma2-9b-it,GROQ_CLOUD,0,1
+"On 08/21/2024,  Professor David Chen monitored the carbon emissions from industrial sectors changed.",0,policy,gemma2-9b-it,GROQ_CLOUD,0,2
+"The Cato Institute noted on 11/15/2029, the inflation rate fell.",0,policy,gemma2-9b-it,GROQ_CLOUD,0,3
+"According to the World Bank, the foreign direct investment in developing nations rose in Q2 2032.",0,policy,gemma2-9b-it,GROQ_CLOUD,0,4
+"In 09/20/2031, policy analyst Sarah Jones envisioned that public trust in government decreased.",0,policy,gemma2-9b-it,GROQ_CLOUD,0,5
+" The healthcare spending in Medicare beneficiaries increased in December 2027, according to Dr. Emily Carter.",0,policy,gemma2-9b-it,GROQ_CLOUD,0,6
+"Local researcher, Emily Chen, identified economic reforms in Los Angeles, CA rose 2024/08/21.",0,policy,llama-3.1-8b-instant,GROQ_CLOUD,0,1
+"On 08/21/2024, the Brookings Institution noted that lobbying intensity at swing districts stayed stable.",0,policy,llama-3.1-8b-instant,GROQ_CLOUD,0,2
+"Representative Angela Brooks observed that on November 21, 2026, the infrastructure funding distribution remained stable.",0,policy,llama-3.1-8b-instant,GROQ_CLOUD,0,3
+"According to state representative Michael Davis, civic participation at state-level agencies increased in Q2 2028.",0,policy,llama-3.1-8b-instant,GROQ_CLOUD,0,4
+"In Q3 of 2029, policy strategist Rachel Patel reported that her green tech subsidy approvals declined.",0,policy,llama-3.1-8b-instant,GROQ_CLOUD,0,5
+"Renewable energy investments inflated in Q1 2027, according to Dr. Sophia Patel.",0,policy,llama-3.1-8b-instant,GROQ_CLOUD,0,6
+The National Weather Service observed that the precipitation in Seattle remained stable on 08/21/2024.,0,weather,gemma2-9b-it,GROQ_CLOUD,0,1
+"On Wed, August 21, 2024, Dr. Emily Chen monitored the temperature in Miami changed.",0,weather,gemma2-9b-it,GROQ_CLOUD,0,2
+" A meteorologist noted on 08/21/2024, the wind gusts in Phoenix fell.",0,weather,gemma2-9b-it,GROQ_CLOUD,0,3
+"According to the AccuWeather Center, the humidity at New Orleans rose on 08/21/2024.",0,weather,gemma2-9b-it,GROQ_CLOUD,0,4
+"In 08/21/2024,  Professor James Lee envisioned that the cloud coverage in Boston decreased.",0,weather,gemma2-9b-it,GROQ_CLOUD,0,5
+" The wind speed in San Francisco increased on 08/21/2024, according to the Golden Gate Weather Station.",0,weather,gemma2-9b-it,GROQ_CLOUD,0,6
+The weather forecaster observed that the temperature at the National Weather Service had remained stable on 21 August 2024.,0,weather,llama-3.1-8b-instant,GROQ_CLOUD,0,1
+"On 2024-08-21, Meteorologist Emily Chen monitored the precipitation at the University of California changed.",0,weather,llama-3.1-8b-instant,GROQ_CLOUD,0,2
+"Dr. Rachel Kim noted on 08/21/2024, the dew point at the NASA Jet Propulsion Laboratory fell.",0,weather,llama-3.1-8b-instant,GROQ_CLOUD,0,3
+"According to Mr. David Lee, the wind speed at the Weather Channel rose on 2024/08/21.",0,weather,llama-3.1-8b-instant,GROQ_CLOUD,0,4
+"In Q3 of 2027, Professor James Brown envisioned that the humidity at the National Oceanic and Atmospheric Administration decreased.",0,weather,llama-3.1-8b-instant,GROQ_CLOUD,0,5
+"The air pressure in Denver increased 2029 of Q3, according to Meteorologist Sarah Taylor.",0,weather,llama-3.1-8b-instant,GROQ_CLOUD,0,6
+ Analyst Jessica Chen observed that the turnover rate at the Chicago Bulls stayed consistent in September 2023.,0,sport,gemma2-9b-it,GROQ_CLOUD,0,1
+"On 08/21/2024, Coach David Lee monitored that the  field goal percentage at the Miami Heat increased.",0,sport,gemma2-9b-it,GROQ_CLOUD,0,2
+" Analyst Michael Rodriguez noted on 03/15/2025, the point differential at the LA Clippers fell.",0,sport,gemma2-9b-it,GROQ_CLOUD,0,3
+"According to Coach Ashley Thomas, the rebounds per game at the Phoenix Suns rose in January 2024.",0,sport,gemma2-9b-it,GROQ_CLOUD,0,4
+"In December 2022,  Analyst Kevin Carter envisioned that the  saves at the New York Rangers decreased.",0,sport,gemma2-9b-it,GROQ_CLOUD,0,5
+"The  tackle count at Manchester United surged in April 2023, according to Coach Emily Jones.",0,sport,gemma2-9b-it,GROQ_CLOUD,0,6
+"Mr. Johnson, the CEO of the New York Giants, observed that the home run count at the Chicago Cubs fell on 09/15/2023.",0,sport,llama-3.1-8b-instant,GROQ_CLOUD,0,1
+"On 02/28/2022, the sports department at ESPN monitored the win ratio at the Los Angeles Lakers changed.",0,sport,llama-3.1-8b-instant,GROQ_CLOUD,0,2
+"Analyst Rachel Lee noted on 10/25/2024, the save percentage at the Toronto Maple Leafs stayed stable.",0,sport,llama-3.1-8b-instant,GROQ_CLOUD,0,3
+"According to the sports management team at Manchester United, the passing accuracy at the Manchester City rose in August 2021.",0,sport,llama-3.1-8b-instant,GROQ_CLOUD,0,4
+"In November 2022, the research advisor at the University of Michigan envisioned that the field goal percentage at the Michigan Wolverines decreased.",0,sport,llama-3.1-8b-instant,GROQ_CLOUD,0,5
+"The points per game at the Golden State Warriors increased on 04/12/2024, according to the sports analysts at the Golden State Warriors.",0,sport,llama-3.1-8b-instant,GROQ_CLOUD,0,6
+Dr. Emily Carter observed that the average temperature at the North Pole decreased in December 2021.,0,miscellaneous,gemma2-9b-it,GROQ_CLOUD,0,1
+"On 08/21/2024, John Smith monitored the website traffic at Google increased.",0,miscellaneous,gemma2-9b-it,GROQ_CLOUD,0,2
+"The CEO noted on 03/15/2023, the company's stock price fell.",0,miscellaneous,gemma2-9b-it,GROQ_CLOUD,0,3
+"According to Professor Alice Lee, the graduation rate at Harvard University rose in June 2022.",0,miscellaneous,gemma2-9b-it,GROQ_CLOUD,0,4
+"In Q4 of 2025,  Sarah Jones envisioned that the popularity of electric vehicles decreased.",0,miscellaneous,gemma2-9b-it,GROQ_CLOUD,0,5
+"The customer satisfaction rating for Amazon increased in January 2023, according to Michael Brown.",0,miscellaneous,gemma2-9b-it,GROQ_CLOUD,0,6
+Professor John Taylor noted that the average grade at Harvard University stayed stable in 2024/08/21.,0,miscellaneous,llama-3.1-8b-instant,GROQ_CLOUD,0,1
+"On Aug 21, 2024, Dr. Lisa Nguyen recorded that class participation at MIT increased.",0,miscellaneous,llama-3.1-8b-instant,GROQ_CLOUD,0,2
+"Dr. David Kim observed that on Q3 of 2027, library usage at Stanford University fell.",0,miscellaneous,llama-3.1-8b-instant,GROQ_CLOUD,0,3
+"According to Research Advisor Michael Brown, the frequency of citations in academic papers rose in 2029 of Q3.",0,miscellaneous,llama-3.1-8b-instant,GROQ_CLOUD,0,4
+"In 21 Aug 2024, Professor Maria Rodriguez noted that student engagement at the University of California, Berkeley remained consistent.",0,miscellaneous,llama-3.1-8b-instant,GROQ_CLOUD,0,5
+"Lecture attendance improved in 2027-08-21, according to Professor James Davis.",0,miscellaneous,llama-3.1-8b-instant,GROQ_CLOUD,0,6

@@ -1,0 +1,73 @@
+Base Sentence,Sentence Label,Domain,Model Name,API Name,Batch ID,Template Number
+"Based on my analysis as a financial expert, I forecast that the stock price at Tesla will potentially decrease in Q3 of 2024.",1,finance,mixtral-8x7b-instruct,NAVI_GATOR,0,1
+"On August 21, 2024, Goldman Sachs speculates that the net profit at Microsoft will likely increase in the following fiscal year.",1,finance,mixtral-8x7b-instruct,NAVI_GATOR,0,2
+"JP Morgan Chase predicts that on January 1, 2025, the revenue of Amazon may rise significantly.",1,finance,mixtral-8x7b-instruct,NAVI_GATOR,0,3
+"According to a report by BlackRock, the operating cash flow at Google's parent company, Alphabet, would fall in the second quarter of 2025.",1,finance,mixtral-8x7b-instruct,NAVI_GATOR,0,4
+"In Q2 of 2025, a financial research advisor envisions that the research and development expenses at Johnson & Johnson have some probability to remain stable.",1,finance,mixtral-8x7b-instruct,NAVI_GATOR,0,5
+"The trading volume of ExxonMobil should stay the same in the third quarter of 2025, according to a college student studying finance.",1,finance,mixtral-8x7b-instruct,NAVI_GATOR,0,6
+A financial advisor predicts that the net profit at Procter & Gamble potentially decrease in 2026 Q2.,1,finance,mistral-small-3.1,NAVI_GATOR,0,1
+"On 08/21/2024, a senior financial analyst speculates the revenue at Chevron will likely increase.",1,finance,mistral-small-3.1,NAVI_GATOR,0,2
+"A financial expert predicts on 21 August 2024, the Johnson & Johnson stock price may rise.",1,finance,mistral-small-3.1,NAVI_GATOR,0,3
+"According to a financial top executive, the operating income at Boeing would fall in 2025 Q3.",1,finance,mistral-small-3.1,NAVI_GATOR,0,4
+"In 2024-08-21, a financial senior level person envisions that the gross profit at Walmart has some probability to remain stable.",1,finance,mistral-small-3.1,NAVI_GATOR,0,5
+"The net profit at Amazon should stay same in 2024/08/21, according to a financial reporter.",1,finance,mistral-small-3.1,NAVI_GATOR,0,6
+Dr. Smith forecasts that the prevalence of diabetes at urban health centers potentially decreases in Q1 2025.,1,health,mixtral-8x7b-instruct,NAVI_GATOR,0,1
+"On 08/21/2024, the WHO speculates the obesity rates in North America will likely increase.",1,health,mixtral-8x7b-instruct,NAVI_GATOR,0,2
+"The CDC predicts on 2024-08-21, the average physical activity levels in the US may rise.",1,health,mixtral-8x7b-instruct,NAVI_GATOR,0,3
+"According to a recent study, the nutritional intake in European schools would fall in Q3 of 2027.",1,health,mixtral-8x7b-instruct,NAVI_GATOR,0,4
+"In 2029 of Q3, a fitness expert envisions that the average physical activity levels among teenagers has some probability to remain stable.",1,health,mixtral-8x7b-instruct,NAVI_GATOR,0,5
+"The obesity rates in South America should stay same in August 2054, according to a health research advisor.",1,health,mixtral-8x7b-instruct,NAVI_GATOR,0,6
+The World Health Organization forecasts that the prevalence of chronic illnesses in rural communities will likely decrease in 2029.,1,health,mistral-small-3.1,NAVI_GATOR,0,1
+"On 08/21/2024, a health analyst speculates the average physical activity levels in urban areas will likely increase.",1,health,mistral-small-3.1,NAVI_GATOR,0,2
+"The American Heart Association predicts on 2024-08-21, the obesity rates in suburban regions may rise.",1,health,mistral-small-3.1,NAVI_GATOR,0,3
+"According to a study by the Mayo Clinic, the nutritional intake in low-income neighborhoods would fall in 2024/08/21.",1,health,mistral-small-3.1,NAVI_GATOR,0,4
+"In Q3 of 2027, a health expert envisions that the prevalence of diabetes in metropolitan areas has some probability to remain stable.",1,health,mistral-small-3.1,NAVI_GATOR,0,5
+"The average sugar consumption in public schools should stay the same in 2024-08-21, according to a nutritionist.",1,health,mistral-small-3.1,NAVI_GATOR,0,6
+"According to economist Dr. Sofia Lopez, the unemployment rate in the technology sector would fall in Q2 2024.",1,policy,mixtral-8x7b-instruct,NAVI_GATOR,0,1
+"On 08/21/2024, policy analyst John Kim speculates that the number of clean energy initiatives at Fortune 500 companies will rise.",1,policy,mixtral-8x7b-instruct,NAVI_GATOR,0,2
+"Policy expert Dr. Emily Wang predicts that on 2024-08-21, the implementation of 5G technology in rural areas may increase.",1,policy,mixtral-8x7b-instruct,NAVI_GATOR,0,3
+"According to research advisor Dr. Robert Johnson, the number of data breaches in the healthcare sector would fall in Q3 of 2025.",1,policy,mixtral-8x7b-instruct,NAVI_GATOR,0,4
+"In 2029 of Q3, college student Samantha Brown envisions that the number of affordable housing units in urban areas has some probability to remain stable.",1,policy,mixtral-8x7b-instruct,NAVI_GATOR,0,5
+"The number of electric vehicles on the road should stay the same in 21 August 2024, according to policy strategist Alex Nguyen.",1,policy,mixtral-8x7b-instruct,NAVI_GATOR,0,6
+The World Health Organization forecasts that the global vaccination rates in developing countries may decrease by 2024-08-21.,1,policy,mistral-small-3.1,NAVI_GATOR,0,1
+"On 21 August 2024, the International Energy Agency speculates the demand for renewable energy will likely increase.",1,policy,mistral-small-3.1,NAVI_GATOR,0,2
+"The Brookings Institution predicts on 21/08/2024, the consumer confidence in the retail sector may rise.",1,policy,mistral-small-3.1,NAVI_GATOR,0,3
+"According to the Federal Reserve, the interest rates in the finance sector would fall in Q3 of 2027.",1,policy,mistral-small-3.1,NAVI_GATOR,0,4
+"In 2029 of Q3, the Environmental Protection Agency envisions that the air quality standards in urban areas has some probability to remain stable.",1,policy,mistral-small-3.1,NAVI_GATOR,0,5
+"The public trust in the government should stay the same in 2024/08/21, according to the policy advisor.",1,policy,mistral-small-3.1,NAVI_GATOR,0,6
+Meteorologist Olivia forecasts that the temperature in Dallas may decrease in the month of January 2025.,1,weather,mixtral-8x7b-instruct,NAVI_GATOR,0,1
+"On August 21, 2024, Weather Expert Dr. James speculates that the humidity in New York will likely increase.",1,weather,mixtral-8x7b-instruct,NAVI_GATOR,0,2
+"The National Oceanic and Atmospheric Administration (NOAA) predicts that on 08/21/2024, the wind speed in Miami Beach will rise.",1,weather,mixtral-8x7b-instruct,NAVI_GATOR,0,3
+"According to Meteorologist Sarah, the precipitation levels in Los Angeles would fall in Q3 of 2027.",1,weather,mixtral-8x7b-instruct,NAVI_GATOR,0,4
+"In 2029 of Q3, Meteorologist Sam envisions that the temperature in San Francisco has some probability to remain stable.",1,weather,mixtral-8x7b-instruct,NAVI_GATOR,0,5
+"The temperature in Las Vegas should stay the same on 08/21/2024, according to the local weather station.",1,weather,mixtral-8x7b-instruct,NAVI_GATOR,0,6
+The Weather Channel forecasts that the wind speed at Chicago potentially will decrease in 2024-09-15.,1,weather,mistral-small-3.1,NAVI_GATOR,0,1
+"On 2024/10/20, the National Oceanic and Atmospheric Administration speculates the temperature at New Orleans will likely increase.",1,weather,mistral-small-3.1,NAVI_GATOR,0,2
+"The Weather Underground predicts on 2024-11-05, the precipitation at Seattle may rise.",1,weather,mistral-small-3.1,NAVI_GATOR,0,3
+"According to the Weather Network, the humidity at Austin would fall in 08/21/2024.",1,weather,mistral-small-3.1,NAVI_GATOR,0,4
+"In 2024-12-10, the American Meteorological Society envisions that the temperature at Denver has some probability to remain stable.",1,weather,mistral-small-3.1,NAVI_GATOR,0,5
+"The wind speed at Dallas should stay the same in 2024-08-21, according to the Weather Service.",1,weather,mistral-small-3.1,NAVI_GATOR,0,6
+Sports analyst David Anderson forecasts that the home run rate at the New York Yankees has the potential to decrease in 08/21/2024.,1,sport,mixtral-8x7b-instruct,NAVI_GATOR,0,1
+"On 2024-09-01, sports expert Lisa Kim speculates the touchdown rate at the New England Patriots will likely increase.",1,sport,mixtral-8x7b-instruct,NAVI_GATOR,0,2
+"Coach Tom Williams predicts on 2025-09-22, the goal average at FC Barcelona may rise.",1,sport,mixtral-8x7b-instruct,NAVI_GATOR,0,3
+"According to sports analyst Sarah Johnson, the scoring average at the Los Angeles Lakers would fall in Q3 of 2027.",1,sport,mixtral-8x7b-instruct,NAVI_GATOR,0,4
+"In 2026-10, sports top executive Robert Brown envisions that the win rate at the Cleveland Cavaliers has some probability to remain stable.",1,sport,mixtral-8x7b-instruct,NAVI_GATOR,0,5
+"The point average at the Houston Rockets should stay the same in 2025 Q4, according to sports senior level person Karen Taylor.",1,sport,mixtral-8x7b-instruct,NAVI_GATOR,0,6
+The sports analyst from ESPN anticipates that the scoring average at the Los Angeles Lakers will potentially decrease in 2024 of Q3.,1,sport,mistral-small-3.1,NAVI_GATOR,0,1
+"On 08/21/2024, the sports reporter from Fox News speculates the win percentage at the New England Patriots will likely increase.",1,sport,mistral-small-3.1,NAVI_GATOR,0,2
+"The sports expert from CBS predicts on 21 August 2024, the goal count at FC Barcelona may rise.",1,sport,mistral-small-3.1,NAVI_GATOR,0,3
+"According to the sports top executive from the NBA, the touchdown rate at the San Francisco 49ers would fall in 2025 of Q3.",1,sport,mistral-small-3.1,NAVI_GATOR,0,4
+"In 2026 of Q3, the sports senior level person from the NFL envisions that the scoring average at the New York Giants has some probability to remain stable.",1,sport,mistral-small-3.1,NAVI_GATOR,0,5
+"The win percentage at the Boston Celtics should stay the same in 2027 of Q3, according to the sports research advisor from Harvard.",1,sport,mistral-small-3.1,NAVI_GATOR,0,6
+"Based on the latest market trends, the miscellaneous analyst forecasts that the demand for electric vehicles in the automotive industry will potentially decrease in Q4 of 2025.",1,miscellaneous,mixtral-8x7b-instruct,NAVI_GATOR,0,1
+"On 01/01/2024, the miscellaneous top executive speculates that the number of remote workers in the tech sector will likely increase due to the continued adoption of flexible work arrangements.",1,miscellaneous,mixtral-8x7b-instruct,NAVI_GATOR,0,2
+"The miscellaneous expert predicts that by 2027, the miscellaneous company's market share in the e-commerce industry may rise, driven by strategic partnerships and innovative product offerings.",1,miscellaneous,mixtral-8x7b-instruct,NAVI_GATOR,0,3
+"According to a miscellaneous senior level person, the number of cybersecurity breaches in the financial sector would fall in 2026, thanks to the implementation of advanced security measures and heightened awareness.",1,miscellaneous,mixtral-8x7b-instruct,NAVI_GATOR,0,4
+"In Q3 of 2023, the miscellaneous research advisor envisions that the unemployment rate in the US will have some probability to remain stable, supported by a strong economy and job growth.",1,miscellaneous,mixtral-8x7b-instruct,NAVI_GATOR,0,5
+"The miscellaneous college student's GPA should stay the same in Spring 2024, according to their rigorous study plan and time management skills.",1,miscellaneous,mixtral-8x7b-instruct,NAVI_GATOR,0,6
+The miscellaneous senior level person at Tesla forecasts that the stock price of Ford will potentially decrease in 2029 of Q3.,1,miscellaneous,mistral-small-3.1,NAVI_GATOR,0,1
+"On 08/21/2024, the miscellaneous expert at NASA speculates the number of successful Mars missions will likely increase.",1,miscellaneous,mistral-small-3.1,NAVI_GATOR,0,2
+"The miscellaneous analyst at Goldman Sachs predicts on 21 August 2024, the market volatility may rise.",1,miscellaneous,mistral-small-3.1,NAVI_GATOR,0,3
+"According to the miscellaneous top executive at Apple, the sales of iPhones would fall in 2024-08-21.",1,miscellaneous,mistral-small-3.1,NAVI_GATOR,0,4
+"In 21/08/2024, the miscellaneous reporter at CNN envisions that the unemployment rate has some probability to remain stable.",1,miscellaneous,mistral-small-3.1,NAVI_GATOR,0,5
+"The average temperature in the Arctic should stay the same in 2024/08/21, according to the miscellaneous climate scientist at NOAA.",1,miscellaneous,mistral-small-3.1,NAVI_GATOR,0,6

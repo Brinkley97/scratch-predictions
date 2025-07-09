@@ -1,0 +1,67 @@
+CSV Row: Base Sentence, Sentence Label, Domain, Model Name, API Name, Batch ID, Template Number
+CSV Row:  Barclays forecasts that the net profit at Amazon will decrease in 2024/08/21., 1, finance, gemma2-9b-it, GROQ_CLOUD, 0, 1
+CSV Row: On Wed, August 21, 2024,  Goldman Sachs speculates the revenue at Microsoft will likely increase., 1, finance, gemma2-9b-it, GROQ_CLOUD, 0, 2
+CSV Row: JPMorgan Chase predicts on 08/21/2024, the stock price of Tesla may rise., 1, finance, gemma2-9b-it, GROQ_CLOUD, 0, 3
+CSV Row: According to Moody's, the operating cash flow at Walmart would fall in 21 August 2024., 1, finance, gemma2-9b-it, GROQ_CLOUD, 0, 4
+CSV Row: In 2024-08-21,  Morgan Stanley envisions that the  interest rates at the Federal Reserve has some probability to remain stable., 1, finance, gemma2-9b-it, GROQ_CLOUD, 0, 5
+CSV Row: JPMorgan forecasts that the revenue at Microsoft potentially decrease in Q3 of 2027., 1, finance, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 1
+CSV Row: On 2024-08-21, Citigroup speculates the operating income at Johnson & Johnson will likely increase., 1, finance, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 2
+CSV Row: BlackRock predicts on 21 August 2024, the stock price at Visa may rise., 1, finance, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 3
+CSV Row: According to Goldman Sachs, the net profit at Coca-Cola would fall in 2025-08-21., 1, finance, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 4
+CSV Row: In 08/21/2024, Wells Fargo envisions that the operating cash flow at Procter & Gamble has some probability to remain stable., 1, finance, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 5
+CSV Row: The stock price at Amazon should stay same in 2024/08/21, according to Morgan Stanley., 1, finance, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 6
+CSV Row: The World Health Organization forecasts that the prevalence of type 2 diabetes at global level potentially decrease in 2030., 1, health, gemma2-9b-it, GROQ_CLOUD, 0, 1
+CSV Row: On 12/31/2025, Dr. Emily Carter speculates the average life expectancy in developed countries will likely increase., 1, health, gemma2-9b-it, GROQ_CLOUD, 0, 2
+CSV Row:  The American Heart Association predicts on 08/21/2024, public awareness of cardiovascular disease may rise., 1, health, gemma2-9b-it, GROQ_CLOUD, 0, 3
+CSV Row: According to the CDC, the obesity rates in adolescents would fall in Spring 2027., 1, health, gemma2-9b-it, GROQ_CLOUD, 0, 4
+CSV Row: In 03/15/2026, Dr. David Chen envisions that childhood immunization rates have some probability to remain stable., 1, health, gemma2-9b-it, GROQ_CLOUD, 0, 5
+CSV Row: The World Health Organization forecasts that the prevalence of mental health issues at urban hospitals potentially decrease in 2025-08-15., 1, health, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 1
+CSV Row: On 2027-02-10, a health researcher speculates that the average sleep quality at rural clinics will likely increase., 1, health, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 2
+CSV Row: Dr. John Lee predicts on 2030-01-05, the national obesity rates may rise., 1, health, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 3
+CSV Row: According to a study conducted by Harvard University, the average physical activity levels at U.S. high schools would fall in Q2 2028., 1, health, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 4
+CSV Row: In 2029-06-20, a fitness expert envisions that the nutritional intake at suburban gyms has some probability to remain stable., 1, health, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 5
+CSV Row: The American Heart Association predicts that heart disease rates should stay the same in 2026-11-15, according to their research report., 1, health, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 6
+CSV Row: The World Bank forecasts that the global poverty rate potentially decrease in 2029., 1, policy, gemma2-9b-it, GROQ_CLOUD, 0, 1
+CSV Row: On 10/26/2023,  economist Dr. Emily Chen speculates that the  interest rates at major central banks will likely increase., 1, policy, gemma2-9b-it, GROQ_CLOUD, 0, 2
+CSV Row: Policy analyst Michael Rodriguez predicts on 08/21/2024, the  public support for environmental regulations may rise., 1, policy, gemma2-9b-it, GROQ_CLOUD, 0, 3
+CSV Row: According to Professor David Kim, the  adoption rate of artificial intelligence in the healthcare sector would fall in Q4 2027., 1, policy, gemma2-9b-it, GROQ_CLOUD, 0, 4
+CSV Row: In December 2028,  policy researcher Sarah Lee envisions that the  trade tensions between the US and China has some probability to remain stable., 1, policy, gemma2-9b-it, GROQ_CLOUD, 0, 5
+CSV Row: Analyst Michael Davis forecasts that the economic growth at emerging markets potentially decrease in Q4 of 2028., 1, policy, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 1
+CSV Row: On August 15, 2026, the International Energy Agency speculates that oil prices at major refineries will likely increase., 1, policy, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 2
+CSV Row: Senator Emily Patel predicts on November 20, 2029, the cybersecurity spending at tech firms may rise., 1, policy, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 3
+CSV Row: According to Dr. David Lee, the consumer confidence at retail stores would fall in 2027., 1, policy, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 4
+CSV Row: In September 2025, policy advisor Chris Brooks envisions that job creation in the manufacturing sector has some probability to remain stable., 1, policy, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 5
+CSV Row: Defense spending should stay the same in 2029, according to expert Lisa Nguyen., 1, policy, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 6
+CSV Row: The Weather Channel forecasts that the precipitation levels at New Orleans potentially decrease in 2024/08/21., 1, weather, gemma2-9b-it, GROQ_CLOUD, 0, 1
+CSV Row: On 08/21/2024, Dr. Emily Carter speculates the temperature at Chicago will likely increase., 1, weather, gemma2-9b-it, GROQ_CLOUD, 0, 2
+CSV Row: The National Oceanic and Atmospheric Administration predicts on 21 August 2024, the wind speed at Seattle may rise., 1, weather, gemma2-9b-it, GROQ_CLOUD, 0, 3
+CSV Row: According to AccuWeather, the humidity at Atlanta would fall in Wed, August 21, 2024., 1, weather, gemma2-9b-it, GROQ_CLOUD, 0, 4
+CSV Row: In 21/08/2024, Meteorologist David Lee envisions that the temperature at Dallas has some probability to remain stable., 1, weather, gemma2-9b-it, GROQ_CLOUD, 0, 5
+CSV Row: The European Weather Agency forecasts that the precipitation levels at Rome may decrease in 2024-09-20., 1, weather, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 1
+CSV Row: On 2025 of Q3, Meteorologist David Kim speculates that the temperature at Sydney will likely increase., 1, weather, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 2
+CSV Row: Dr. Emily Taylor, a research advisor, predicts on August 15, 2025, the wind speed at London may rise., 1, weather, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 3
+CSV Row: According to the National Oceanic and Atmospheric Administration, the humidity at Atlanta would fall in 10/10/2025., 1, weather, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 4
+CSV Row: In 2027, Dr. James Davis envisions that the precipitation levels at Beijing have some probability to remain stable., 1, weather, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 5
+CSV Row: Temperature in Paris should stay the same in 2025-08-01, according to Meteorologist Dr. Isabelle Martin., 1, weather, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 6
+CSV Row:  Analyst Emily Chen forecasts that the points per game at the Los Angeles Lakers will decrease in 2024/08/21., 1, sport, gemma2-9b-it, GROQ_CLOUD, 0, 1
+CSV Row: On 21 August 2024, Coach Javier Rodriguez speculates the win probability for the New York Yankees will likely increase., 1, sport, gemma2-9b-it, GROQ_CLOUD, 0, 2
+CSV Row:  Analyst David Lee predicts on 08/21/2024, the  touchdown rate at the Seattle Seahawks may rise., 1, sport, gemma2-9b-it, GROQ_CLOUD, 0, 3
+CSV Row: According to Coach Sofia Ramirez, the score average at the Boston Celtics would fall in Wed, August 21, 2024., 1, sport, gemma2-9b-it, GROQ_CLOUD, 0, 4
+CSV Row: In 08/21/2024, Analyst Michael Chen envisions that the goal average for the FC Barcelona has some probability to remain stable., 1, sport, gemma2-9b-it, GROQ_CLOUD, 0, 5
+CSV Row: Coach Thompson forecasts that the touchdown rate at the New England Patriots potentially decrease in August 2024., 1, sport, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 1
+CSV Row: On 2024-08-20, Analyst Rachel Lee speculates the win percentage at the Los Angeles Lakers will likely increase., 1, sport, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 2
+CSV Row: ESPN predicts on 08/22/2024, the point average at the Boston Celtics may rise., 1, sport, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 3
+CSV Row: According to Coach Michael Davis, the scoring average at the Houston Texans would fall in Q3 of 2024., 1, sport, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 4
+CSV Row: In 2024/08, Analyst Kevin White envisions that the goal count at the New York Yankees has some probability to remain stable., 1, sport, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 5
+CSV Row: The win ratio at the Dallas Cowboys should stay the same in 2024-08-25, according to Coach James Wilson., 1, sport, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 6
+CSV Row: Dr. Emily Carter forecasts that the global sea level at coastal regions will potentially decrease in 2035., 1, miscellaneous, gemma2-9b-it, GROQ_CLOUD, 0, 1
+CSV Row: On 08/21/2024, Tech Analyst David Chen speculates the price of Bitcoin will likely increase., 1, miscellaneous, gemma2-9b-it, GROQ_CLOUD, 0, 2
+CSV Row:  Professor Michael Rodriguez predicts on 12/31/2029, the enrollment at City University will rise., 1, miscellaneous, gemma2-9b-it, GROQ_CLOUD, 0, 3
+CSV Row: According to Economist Jane Lee, the inflation rate in the United States would fall in Q3 of 2027., 1, miscellaneous, gemma2-9b-it, GROQ_CLOUD, 0, 4
+CSV Row: In June 2026,  Student Sarah Jones envisions that the popularity of online learning will have some probability to remain stable., 1, miscellaneous, gemma2-9b-it, GROQ_CLOUD, 0, 5
+CSV Row: Financial analyst Olivia Brown forecasts that the stock prices at Microsoft Corporation potentially decrease in Q3 of 2027., 1, miscellaneous, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 1
+CSV Row: On August 15, 2024, senior researcher Dr. David Kim speculates that the number of published research papers at Harvard University will likely increase., 1, miscellaneous, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 2
+CSV Row: Marketing expert Emily Chen predicts on October 20, 2025, the sales revenue at Amazon will rise., 1, miscellaneous, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 3
+CSV Row: According to environmental scientist Dr. Lisa Nguyen, the air quality index at Los Angeles will fall in winter 2029., 1, miscellaneous, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 4
+CSV Row: In 2029, college student Alex Lee envisions that the average GPA at Stanford University has some probability to remain stable., 1, miscellaneous, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 5
+CSV Row: The chances of a successful startup will stay same in 2025, according to entrepreneur and investor, Mark Davis., 1, miscellaneous, llama-3.3-70b-versatile, GROQ_CLOUD, 0, 6

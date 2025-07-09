@@ -1,0 +1,198 @@
+Base Sentence,Sentence Label,Domain,Model Name,API Name,Batch ID,Template Number
+"On 08/15/2024, the financial analyst at JPMorgan Chase observed that the net profit at Amazon had increased in Q2 2024.",0,finance,llama-3.1-70b-instruct,NAVI_GATOR,0,1
+"On 2024-08-20, Bank of America speculates the operating income at Microsoft will likely rise.",0,finance,llama-3.1-70b-instruct,NAVI_GATOR,0,2
+"A college student predicts on August 22, 2024, the research and development expenses at Google may climb.",0,finance,llama-3.1-70b-instruct,NAVI_GATOR,0,3
+"According to the financial expert at Goldman Sachs, the revenue at Facebook would fall in Q3 2024.",0,finance,llama-3.1-70b-instruct,NAVI_GATOR,0,4
+"In August 25, 2024, a research advisor envisions that the stock price at Apple has some probability to remain stable.",0,finance,llama-3.1-70b-instruct,NAVI_GATOR,0,5
+"The operating cash flow at Wells Fargo should stay same in Q2 2024, according to the senior level person at Citigroup.",0,finance,llama-3.1-70b-instruct,NAVI_GATOR,0,6
+"JPMorgan Chase noted that the net profit at Amazon had risen significantly from September 10, 2023, to September 10, 2024.",0,finance,llama-3.3-70b-instruct,NAVI_GATOR,0,1
+"On November 25, 2022, to November 25, 2023, Citigroup analysts speculated the research and development expenses at Google would likely increase.",0,finance,llama-3.3-70b-instruct,NAVI_GATOR,0,2
+"Bank of America predicted on October 12, 2024, that the operating income at Microsoft may climb steadily.",0,finance,llama-3.3-70b-instruct,NAVI_GATOR,0,3
+"According to a financial expert, the gross profit at Facebook fell in the second quarter of 2026.",0,finance,llama-3.3-70b-instruct,NAVI_GATOR,0,4
+"In the fourth quarter of 2027, a college student envisioned that the dividend yield at Coca-Cola had some probability to remain unchanged.",0,finance,llama-3.3-70b-instruct,NAVI_GATOR,0,5
+"The stock price of Intel stayed the same in January 2024, according to a senior portfolio manager at Fidelity Investments.",0,finance,llama-3.3-70b-instruct,NAVI_GATOR,0,6
+"Noticing a trend, JP Morgan analysts observed that the net profit at Tesla had decreased in Q2 2023.",0,finance,mixtral-8x7b-instruct,NAVI_GATOR,0,1
+"On 01/01/2024, financial expert Jane anticipates the stock price at Amazon will likely increase.",0,finance,mixtral-8x7b-instruct,NAVI_GATOR,0,2
+"Goldman Sachs CEO, David Solomon, predicts by Q4 2024, the revenue of his company may rise.",0,finance,mixtral-8x7b-instruct,NAVI_GATOR,0,3
+"According to financial analyst Mr. Smith, the operating cash flow at Microsoft would fall in 2025.",0,finance,mixtral-8x7b-instruct,NAVI_GATOR,0,4
+"In Q3 of 2026, Mr. Patel, a research advisor, envisions that the net profit at Google has a high probability to remain stable.",0,finance,mixtral-8x7b-instruct,NAVI_GATOR,0,5
+"Google's net profit should stay the same in Q2 2027, according to financial records.",0,finance,mixtral-8x7b-instruct,NAVI_GATOR,0,6
+Morgan Stanley observed that the revenue at FUBU had increased for Q3 2028.,0,finance,llama-3.1-8b-instruct,NAVI_GATOR,0,1
+"On August 22, 2024, Goldman Sachs noted that the interest rates at the Federal Reserve rose.",0,finance,llama-3.1-8b-instruct,NAVI_GATOR,0,2
+"Morgan Stanley predicted on September 1, 2024, the NASDAQ composite index climbed moderately.",0,finance,llama-3.1-8b-instruct,NAVI_GATOR,0,3
+"According to Apple, the returns at emerging market equities dropped in June 2035.",0,finance,llama-3.1-8b-instruct,NAVI_GATOR,0,4
+"On July 25, 2024, Wells Fargo envisioned that U.S. Treasury yields had some probability to remain stable.",0,finance,llama-3.1-8b-instruct,NAVI_GATOR,0,5
+"Bank of America stock price decreased in January 2025, according to my records.",0,finance,llama-3.1-8b-instruct,NAVI_GATOR,0,6
+The financial analyst at Goldman Sachs observed that the operating cash flow at Tesla had decreased significantly from Q1 to Q2 of 2025.,0,finance,mistral-7b-instruct,NAVI_GATOR,0,1
+"On August 15, 2026, the financial expert at JP Morgan Chase speculates the net profit at Amazon will likely increase in Q4 of 2027.",0,finance,mistral-7b-instruct,NAVI_GATOR,0,2
+"According to the financial top executive at Morgan Stanley, the stock price at Microsoft may rise in Q3 of 2029.",0,finance,mistral-7b-instruct,NAVI_GATOR,0,3
+"The financial senior level person at Bank of America predicted on March 1, 2025, the research and development expenses at Apple would fall in Q2 of 2026.",0,finance,mistral-7b-instruct,NAVI_GATOR,0,4
+"In Q2 of 2027, the financial advisor at Wells Fargo envisions that the trading volume at the New York Stock Exchange has some probability to remain stable.",0,finance,mistral-7b-instruct,NAVI_GATOR,0,5
+"The stock price at Alphabet (Google) decreased in Q1 of 2025, according to the financial analyst at Citigroup.",0,finance,mistral-7b-instruct,NAVI_GATOR,0,6
+A seasoned financial analyst noted that the net profit at Amazon had decreased in 2024.,0,finance,mistral-small-3.1,NAVI_GATOR,0,1
+"On 09/15/2023, a financial expert saw the gross profit at Microsoft had increased.",0,finance,mistral-small-3.1,NAVI_GATOR,0,2
+"A financial reporter documented that on 12/25/2022, the operating income at Tesla had fallen.",0,finance,mistral-small-3.1,NAVI_GATOR,0,3
+"According to a financial top executive, the research and development expenses at Google had increased in Q4 2023.",0,finance,mistral-small-3.1,NAVI_GATOR,0,4
+"In 2023, a financial senior level person noted that the stock price at Apple had some probability to remain stable.",0,finance,mistral-small-3.1,NAVI_GATOR,0,5
+"The revenue at Walmart stayed the same in 2023, according to a financial advisor.",0,finance,mistral-small-3.1,NAVI_GATOR,0,6
+The American Heart Association noted that the blood pressure at urban clinics had risen from 2020 to 2022.,0,health,llama-3.1-70b-instruct,NAVI_GATOR,0,1
+"On 11/15/2025, Dr. Lee predicted that the obesity rates at elementary schools in the Northeast would likely increase.",0,health,llama-3.1-70b-instruct,NAVI_GATOR,0,2
+"The National Institute of Mental Health forecasted that on 9/10/2030, the anxiety levels at college campuses may surge.",0,health,llama-3.1-70b-instruct,NAVI_GATOR,0,3
+"According to a study by the University of California, the vitamin D intake at retirement communities fell in the winter of 2028.",0,health,llama-3.1-70b-instruct,NAVI_GATOR,0,4
+"In Q2 2026, Dr. Patel envisioned that the average body mass index at local gyms had some probability to remain stable.",0,health,llama-3.1-70b-instruct,NAVI_GATOR,0,5
+"The Centers for Disease Control and Prevention reported that the vaccination rates among children stayed the same in the summer of 2023, according to their records.",0,health,llama-3.1-70b-instruct,NAVI_GATOR,0,6
+"The American Heart Association noted that the blood pressure levels at local community clinics had risen from February 10, 2023, to August 15, 2023.",0,health,llama-3.3-70b-instruct,NAVI_GATOR,0,1
+"On November 22, 2022, Dr. Rachel Kim speculated that the average body mass index at suburban high schools would likely increase.",0,health,llama-3.3-70b-instruct,NAVI_GATOR,0,2
+"The World Health Organization predicted on March 15, 2025, that the incidence of infectious diseases at international airports may decline.",0,health,llama-3.3-70b-instruct,NAVI_GATOR,0,3
+"According to a study conducted by Dr. David Lee, the calorie intake at fast-food restaurants fell in the summer of 2028.",0,health,llama-3.3-70b-instruct,NAVI_GATOR,0,4
+"In the fourth quarter of 2026, Professor Emily Chen envisioned that the national average of daily fruit consumption had some probability to remain stable.",0,health,llama-3.3-70b-instruct,NAVI_GATOR,0,5
+"The Centers for Disease Control and Prevention reported that the percentage of smokers in the United States stayed the same from January 1, 2020, to December 31, 2020, according to their annual survey.",0,health,llama-3.3-70b-instruct,NAVI_GATOR,0,6
+Dr. Smith observed that the obesity rates in high schools across Texas have decreased in Q2 2023.,0,health,mixtral-8x7b-instruct,NAVI_GATOR,0,1
+"On January 1, 2024, the CDC speculates that the number of flu cases at pediatric clinics nationwide will likely increase.",0,health,mixtral-8x7b-instruct,NAVI_GATOR,0,2
+"Dr. Johnson predicts that on 08/21/2024, the prevalence of diabetes at medical centers in California may rise.",0,health,mixtral-8x7b-instruct,NAVI_GATOR,0,3
+"According to a study conducted by the Mayo Clinic, the prevalence of hypertension at hospitals in Minnesota would fall in Q3 of 2025.",0,health,mixtral-8x7b-instruct,NAVI_GATOR,0,4
+"In Q2 of 2026, the WHO envisions that global vaccination rates have some probability to remain stable.",0,health,mixtral-8x7b-instruct,NAVI_GATOR,0,5
+"Vaccination rates at schools in New York should stay the same in 2027, according to the New York Department of Health.",0,health,mixtral-8x7b-instruct,NAVI_GATOR,0,6
+The CDC observed that the obesity rates at all schools in California decreased from Q2 2022 to Q4 2022.,0,health,llama-3.1-8b-instruct,NAVI_GATOR,0,1
+"On 11/28/2029, Dr. Patel reported that the prevalence of chronic illnesses at urban hospitals increased.",0,health,llama-3.1-8b-instruct,NAVI_GATOR,0,2
+"The WHO predicted on 4/15/2030, the average physical activity levels at regional communities may rise.",0,health,llama-3.1-8b-instruct,NAVI_GATOR,0,3
+"According to the study conducted at Harvard, the nutritional intake at college cafeterias fell on 2/10/2040.",0,health,llama-3.1-8b-instruct,NAVI_GATOR,0,4
+"In Q2 2026, Professor Lee recorded that the average blood pressure among adults remained stable.",0,health,llama-3.1-8b-instruct,NAVI_GATOR,0,5
+"Physical activity levels among children stayed the same on 9/12/2018, according to Dr. Rodriguez's study.",0,health,llama-3.1-8b-instruct,NAVI_GATOR,0,6
+The World Health Organization (WHO) observed that the prevalence of malnutrition among children in developing countries had significantly decreased from 2021 to 2023.,0,health,mistral-7b-instruct,NAVI_GATOR,0,1
+"On August 15, 2025, Dr. Amelia Johnson speculates that the obesity rates in urban areas will likely increase.",0,health,mistral-7b-instruct,NAVI_GATOR,0,2
+"According to the Centers for Disease Control and Prevention (CDC), the number of reported cases of the flu at hospitals nationwide may rise in Q4 of 2027.",0,health,mistral-7b-instruct,NAVI_GATOR,0,3
+"In Q2 of 2029, the American Heart Association predicts that the average blood pressure at community health clinics may fall.",0,health,mistral-7b-instruct,NAVI_GATOR,0,4
+"In Q3 of 2031, Dr. David Kim envisions that the average life expectancy in developed countries has some probability to remain stable.",0,health,mistral-7b-instruct,NAVI_GATOR,0,5
+"The obesity rates at public schools in the United States should stay the same, according to the Surgeon General's report from 2023.",0,health,mistral-7b-instruct,NAVI_GATOR,0,6
+The World Health Organization noted that the obesity rates in European countries had increased from 2019 to 2021.,0,health,mistral-small-3.1,NAVI_GATOR,0,1
+"On 04/15/2023, Dr. Linda Green noted that the incidence of respiratory infections in urban areas had risen.",0,health,mistral-small-3.1,NAVI_GATOR,0,2
+"The Centers for Disease Control and Prevention reported that on 09/10/2022, the number of reported cases of seasonal allergies in rural communities had fallen.",0,health,mistral-small-3.1,NAVI_GATOR,0,3
+"According to Dr. Robert Smith, the average blood pressure readings at community health clinics dropped in Q2 2022.",0,health,mistral-small-3.1,NAVI_GATOR,0,4
+"In 2023, the American Heart Association recorded that the cholesterol levels among middle-aged adults had remained stable.",0,health,mistral-small-3.1,NAVI_GATOR,0,5
+"The prevalence of depression among teenagers stayed the same in 2021, according to the National Institute of Mental Health.",0,health,mistral-small-3.1,NAVI_GATOR,0,6
+"Policy expert, Dr. Thompson, observed that the election turnout at swing districts had increased in 2025.",0,policy,llama-3.1-70b-instruct,NAVI_GATOR,0,1
+"On 10/12/2028, the Center for American Progress speculated the economic growth rate at rural areas will likely rise.",0,policy,llama-3.1-70b-instruct,NAVI_GATOR,0,2
+"Economist, Dr. Patel, predicts on 5/20/2029, the tax revenue at urban cities may fall.",0,policy,llama-3.1-70b-instruct,NAVI_GATOR,0,3
+"According to policy analyst, Michael Lee, the job creation rate at his nonprofit organization would increase in Q2 2027.",0,policy,llama-3.1-70b-instruct,NAVI_GATOR,0,4
+"In Q1 2026, policy strategist, Rachel Kim, envisions that the educational funding at her state has some probability to remain stable.",0,policy,llama-3.1-70b-instruct,NAVI_GATOR,0,5
+"The lobbying intensity at Southeast Asian nations should stay same in 2028, according to the International Monetary Fund.",0,policy,llama-3.1-70b-instruct,NAVI_GATOR,0,6
+"Policy researcher, David, noted that the election turnout at rural areas had risen in September 2025.",0,policy,llama-3.3-70b-instruct,NAVI_GATOR,0,1
+"On 2/15/2029, the Congressional Budget Office speculated the budget allocation at federal agencies would likely increase.",0,policy,llama-3.3-70b-instruct,NAVI_GATOR,0,2
+"Economist, Dr. Lisa Nguyen, predicted on 11/20/2028, the trade deficit at emerging markets may fall.",0,policy,llama-3.3-70b-instruct,NAVI_GATOR,0,3
+"According to policy advisor, Mark Davis, the environmental policy compliance at manufacturing firms would decrease in Q2 2031.",0,policy,llama-3.3-70b-instruct,NAVI_GATOR,0,4
+"In 2027, policy analyst, Emily Patel, envisioned that the healthcare expenditure at private hospitals has some probability to remain stable.",0,policy,llama-3.3-70b-instruct,NAVI_GATOR,0,5
+"Senator, James Wilson, observed that the tax revenue at state-level governments stayed the same on June 10, 2026, according to his office.",0,policy,llama-3.3-70b-instruct,NAVI_GATOR,0,6
+"Policy analyst, Emily Chen, noted that the unemployment rate in her city, Chicago, had decreased on 12/10/2025.",0,policy,llama-3.1-8b-instruct,NAVI_GATOR,0,1
+"On 8/25/2031, the Brookings Institution observed that lobbying intensity at swing districts stayed stable.",0,policy,llama-3.1-8b-instruct,NAVI_GATOR,0,2
+"Representative David Kim recorded that on 2/14/2029, the infrastructure funding distribution remained stable.",0,policy,llama-3.1-8b-instruct,NAVI_GATOR,0,3
+"According to state representative, Maria Rodriguez, civic participation at state-level agencies increased in late 2019.",0,policy,llama-3.1-8b-instruct,NAVI_GATOR,0,4
+"In Q2 of 2028, economist Dr. Lisa Nguyen reported that food assistance claims in urban counties increased.",0,policy,llama-3.1-8b-instruct,NAVI_GATOR,0,5
+"Housing subsidies decreased in January 2049, according to Senator James Davis.",0,policy,llama-3.1-8b-instruct,NAVI_GATOR,0,6
+"Policy analyst, Dr. Amelia Johnson, observed that the unemployment rate in the city of Seattle had decreased significantly on 02/15/2025.",0,policy,mistral-7b-instruct,NAVI_GATOR,0,1
+"On 10/01/2026, the World Bank speculates that the inflation rate in developing countries will likely increase.",0,policy,mistral-7b-instruct,NAVI_GATOR,0,2
+"Policy top executive, Mr. David Kim, predicts that on 07/04/2027, the stock market index may rise.",0,policy,mistral-7b-instruct,NAVI_GATOR,0,3
+"According to the Federal Reserve, the interest rate in the United States would fall in Q2 of 2029.",0,policy,mistral-7b-instruct,NAVI_GATOR,0,4
+"In Q4 of 2024, policy strategist, Ms. Emily Lee, envisions that the GDP growth rate in the European Union has some probability to remain stable.",0,policy,mistral-7b-instruct,NAVI_GATOR,0,5
+"The number of homeless individuals in the city of Los Angeles should stay the same on 01/01/2023, according to the city's homelessness task force.",0,policy,mistral-7b-instruct,NAVI_GATOR,0,6
+"The policy expert, Dr. Linda Hart, saw that the unemployment rate in Detroit, MI had decreased in Q2 of 2028.",0,policy,mistral-small-3.1,NAVI_GATOR,0,1
+"On 09/15/2025, the senior economist at the Federal Reserve noted that the inflation rate in the Midwest had a high probability to remain stable.",0,policy,mistral-small-3.1,NAVI_GATOR,0,2
+"The research advisor, Professor Jane Smith, recorded that on 05/22/2024, the healthcare spending in rural areas increased.",0,policy,mistral-small-3.1,NAVI_GATOR,0,3
+"According to the top executive of GreenTech Innovations, the renewable energy adoption rates in California had fallen in 2026.",0,policy,mistral-small-3.1,NAVI_GATOR,0,4
+"In 2030, the policy analyst, Alex Johnson, observed that the public transportation usage in New York City had a low chance to remain stable.",0,policy,mistral-small-3.1,NAVI_GATOR,0,5
+"The college student, Jamie Lee, noted that the tuition fees at her university had stayed the same in 2027, according to the university administration.",0,policy,mistral-small-3.1,NAVI_GATOR,0,6
+Meteorologist Tom Harris observed that the air pressure at Denver had increased on 2024-08-20.,0,weather,llama-3.1-70b-instruct,NAVI_GATOR,0,1
+"On 2023-09-15, Dr. Sophia Rodriguez speculates the temperature at Miami will likely rise.",0,weather,llama-3.1-70b-instruct,NAVI_GATOR,0,2
+"Dr. John Lee predicts on 2022-07-25, the wind chill at Chicago may fall.",0,weather,llama-3.1-70b-instruct,NAVI_GATOR,0,3
+"According to Meteorologist Rachel Kim, the precipitation levels at Seattle would decrease in 2024 Q3.",0,weather,llama-3.1-70b-instruct,NAVI_GATOR,0,4
+"In 2022-10, Meteorologist Michael Davis envisions that the cloud coverage at New York has some probability to remain stable.",0,weather,llama-3.1-70b-instruct,NAVI_GATOR,0,5
+"The heat index at Phoenix should stay same on 2023-06-01, according to Meteorologist Emily Chen.",0,weather,llama-3.1-70b-instruct,NAVI_GATOR,0,6
+"Meteorologist Tom Harris noted that the air quality at Seattle had improved on September 10, 2024.",0,weather,llama-3.3-70b-instruct,NAVI_GATOR,0,1
+"On 2024-02-20, Dr. Sophia Rodriguez predicted that the precipitation levels at Miami would likely increase.",0,weather,llama-3.3-70b-instruct,NAVI_GATOR,0,2
+"Research Advisor Michael Chen observed that in Q2 of 2023, the temperature at Boston rose significantly.",0,weather,llama-3.3-70b-instruct,NAVI_GATOR,0,3
+"According to Meteorologist Rachel Kim, the wind gusts at Chicago fell on November 15, 2022.",0,weather,llama-3.3-70b-instruct,NAVI_GATOR,0,4
+"In the summer of 2024, the National Weather Service envisioned that the humidity levels at New Orleans had a high probability to remain stable.",0,weather,llama-3.3-70b-instruct,NAVI_GATOR,0,5
+"The cloud coverage at Denver stayed the same on October 25, 2023, according to Senior Meteorologist James Davis.",0,weather,llama-3.3-70b-instruct,NAVI_GATOR,0,6
+"Meteorologist Sarah Thompson noticed that the wind speed in Miami had decreased on August 25, 2023.",0,weather,mixtral-8x7b-instruct,NAVI_GATOR,0,1
+"On October 1, 2024, Dr. James Anderson speculates that the temperature in New York will likely increase.",0,weather,mixtral-8x7b-instruct,NAVI_GATOR,0,2
+Weather Analyst Lisa Kim predicts that the rainfall in Seattle may rise by Q2 of 2025.,0,weather,mixtral-8x7b-instruct,NAVI_GATOR,0,3
+"According to Meteorologist Samantha Lee, the humidity at Los Angeles would fall in the month of June 2023.",0,weather,mixtral-8x7b-instruct,NAVI_GATOR,0,4
+The research advisor at the University of California observed that the temperature in San Francisco had decreased from 08/20/2024 to 08/21/2024.,0,weather,llama-3.1-8b-instruct,NAVI_GATOR,0,1
+"On 2024-08-22, Dr. Maria Rodriguez, a weather expert, reported that the precipitation in New York City rose.",0,weather,llama-3.1-8b-instruct,NAVI_GATOR,0,2
+"Dr. John Taylor, a senior level person, noted that on 2024/08/23, the wind speed in Chicago increased.",0,weather,llama-3.1-8b-instruct,NAVI_GATOR,0,3
+"According to the weather top executive at the National Weather Service, the air pressure in Denver fell on 2024-08-24.",0,weather,llama-3.1-8b-instruct,NAVI_GATOR,0,4
+"On August 25, 2024, the weather analyst at the National Oceanic and Atmospheric Administration (NOAA) envisioned that the humidity in Miami had some probability to remain stable.",0,weather,llama-3.1-8b-instruct,NAVI_GATOR,0,5
+"The temperature in Boston stayed the same on 2024-08/26, according to the weather expert at the Massachusetts Institute of Technology.",0,weather,llama-3.1-8b-instruct,NAVI_GATOR,0,6
+"The National Weather Service's meteorologist, Dr. Amelia Johnson, observed that the precipitation at Seattle had decreased significantly on August 21, 2024.",0,weather,mistral-7b-instruct,NAVI_GATOR,0,1
+"On August 21, 2024, Dr. Richard Davis, a renowned weather analyst, speculates that the temperature at Miami will likely increase.",0,weather,mistral-7b-instruct,NAVI_GATOR,0,2
+"According to Dr. Sarah Williams, the wind speed at New York City may rise in Q3 of 2027.",0,weather,mistral-7b-instruct,NAVI_GATOR,0,3
+"In the suburbs of Chicago, the air pressure dropped noticeably on August 21, 2024, as reported by the local weather station.",0,weather,mistral-7b-instruct,NAVI_GATOR,0,4
+"On August 21, 2024, Dr. James Peterson, a weather research advisor, envisions that the cloud coverage in San Francisco has some probability to remain stable.",0,weather,mistral-7b-instruct,NAVI_GATOR,0,5
+"The temperature in Los Angeles rose in August 2024, according to Dr. Emily Martinez, a senior level meteorologist at the National Weather Service.",0,weather,mistral-7b-instruct,NAVI_GATOR,0,6
+The National Weather Service noted that the precipitation in Seattle had decreased on 03/15/2023.,0,weather,mistral-small-3.1,NAVI_GATOR,0,1
+"On 05/22/2022, a local meteorologist saw the air pressure in Phoenix had fallen.",0,weather,mistral-small-3.1,NAVI_GATOR,0,2
+"The Weather Channel predicted on 01/18/2024, the temperature at Miami had risen.",0,weather,mistral-small-3.1,NAVI_GATOR,0,3
+"According to the local weather reporter, the humidity at Boston fell on 09/12/2021.",0,weather,mistral-small-3.1,NAVI_GATOR,0,4
+"In 04/2023, the Weather Bureau in San Francisco noted that the wind speed had some probability to remain stable.",0,weather,mistral-small-3.1,NAVI_GATOR,0,5
+"The dew point in Houston stayed the same on 02/20/2022, according to the Texas Weather Bureau.",0,weather,mistral-small-3.1,NAVI_GATOR,0,6
+Analyst Rachel Lee observed that the turnover rate at the Chicago Bulls had decreased in the first quarter of 2024.,0,sport,llama-3.1-70b-instruct,NAVI_GATOR,0,1
+"On 02/20/2023, Coach Daniel Hall speculated the free throw percentage at the Golden State Warriors would likely increase.",0,sport,llama-3.1-70b-instruct,NAVI_GATOR,0,2
+"Coach Sofia Rodriguez predicted on 08/15/2022, the Miami Heat's rebounding margin may rise.",0,sport,llama-3.1-70b-instruct,NAVI_GATOR,0,3
+"According to Analyst Michael Chen, the passing yards at the Kansas City Chiefs would fall in the second half of the 2023 season.",0,sport,llama-3.1-70b-instruct,NAVI_GATOR,0,4
+"In the fourth quarter of 2021, Coach Emily Patel envisioned that the New England Patriots' sack count has some probability to remain stable.",0,sport,llama-3.1-70b-instruct,NAVI_GATOR,0,5
+"The save percentage at the Toronto Maple Leafs should stay same in the 2022-2023 season, according to Analyst Kevin White.",0,sport,llama-3.1-70b-instruct,NAVI_GATOR,0,6
+Analyst Samantha Thompson noted that the rebounding margin at the Chicago Bulls had increased in September 2024.,0,sport,llama-3.3-70b-instruct,NAVI_GATOR,0,1
+"On 02/20/2023, Coach Michael Davis observed that the passing yards at the Green Bay Packers likely rose.",0,sport,llama-3.3-70b-instruct,NAVI_GATOR,0,2
+"Coach Daniel Lee recorded that on 10/15/2022, the block count at the Toronto Raptors may have fallen.",0,sport,llama-3.3-70b-instruct,NAVI_GATOR,0,3
+"According to Analyst Emily Patel, the field goal percentage at the New England Patriots would have decreased in January 2024.",0,sport,llama-3.3-70b-instruct,NAVI_GATOR,0,4
+"In 2025 Q2, Analyst David Chen envisioned that the steal rate at the Golden State Warriors had some probability to remain high.",0,sport,llama-3.3-70b-instruct,NAVI_GATOR,0,5
+"The save percentage at the Dallas Stars stayed consistent in 06/2023, according to Coach Rachel Hall.",0,sport,llama-3.3-70b-instruct,NAVI_GATOR,0,6
+In the third quarter of 2,0,sport,mixtral-8x7b-instruct,NAVI_GATOR,0,1
+Coach Thompson observed that the free throw percentage at the Chicago Bulls fell in 2024-08-21.,0,sport,llama-3.1-8b-instruct,NAVI_GATOR,0,1
+"On 21 August 2024, Analyst Patel speculates the home run count at the Los Angeles Dodgers will likely increase.",0,sport,llama-3.1-8b-instruct,NAVI_GATOR,0,2
+"Analyst Rodriguez predicts on Q3 of 2027, the passing yards at the Green Bay Packers may rise.",0,sport,llama-3.1-8b-instruct,NAVI_GATOR,0,3
+"According to the New York Giants staff, the field goal percentage at the New York Giants would fall in 2024/08/21.",0,sport,llama-3.1-8b-instruct,NAVI_GATOR,0,4
+"In August 2024, Research Advisor Lee envisions that the serve accuracy at the Miami Heat has some probability to remain stable.",0,sport,llama-3.1-8b-instruct,NAVI_GATOR,0,5
+"The corner kick count at the Barcelona FC should stay same 2029 of Q3, according to Analyst Martin.",0,sport,llama-3.1-8b-instruct,NAVI_GATOR,0,6
+Analyst Alex Thompson observed that the home run count at the Chicago Cubs fell in Q3 of 2027.,0,sport,mistral-7b-instruct,NAVI_GATOR,0,1
+"On 08/21/2024, Analyst Maya Patel speculates the passing yards at the Seattle Seahawks will likely increase.",0,sport,mistral-7b-instruct,NAVI_GATOR,0,2
+"According to Research Advisor John Kim, the win-loss ratio at the Golden State Warriors may rise in Q3 of 2029.",0,sport,mistral-7b-instruct,NAVI_GATOR,0,3
+"In 2024-08-21, Analyst Ravi Gupta noted that the goal difference at the Manchester United decreased in the past season.",0,sport,mistral-7b-instruct,NAVI_GATOR,0,4
+"On 21 August 2024, Analyst Ava Lee envisions that the points per game at the Los Angeles Lakers has some probability to remain stable.",0,sport,mistral-7b-instruct,NAVI_GATOR,0,5
+"The corner kick count at FC Bayern Munich should stay the same in Q3 of 2026, according to Analyst Emily Chen.",0,sport,mistral-7b-instruct,NAVI_GATOR,0,6
+Analyst Jane Doe observed that the penalty count at the Chicago Bulls had increased in 2023.,0,sport,mistral-small-3.1,NAVI_GATOR,0,1
+"On 03/15/2022, Coach Mike Smith noted the field goal percentage at the Golden State Warriors had a high probability of staying stable.",0,sport,mistral-small-3.1,NAVI_GATOR,0,2
+"The New York Mets staff recorded that on 10/15/2021, the strikeout rate at the New York Mets had a high chance of rising.",0,sport,mistral-small-3.1,NAVI_GATOR,0,3
+"According to the Cleveland Cavaliers, the turnover rate at the Cleveland Cavaliers had decreased in 2023.",0,sport,mistral-small-3.1,NAVI_GATOR,0,4
+"In 2023, Analyst Laura White noted that the free throw percentage at the Miami Heat had a low probability of changing.",0,sport,mistral-small-3.1,NAVI_GATOR,0,5
+"The interception count at the Seattle Seahawks had decreased in 2023, according to the Seattle Seahawks.",0,sport,mistral-small-3.1,NAVI_GATOR,0,6
+Analyst Rachel Kim observed that the number of customer complaints at Walmart had increased in Q2 of 2022.,0,miscellaneous,llama-3.1-70b-instruct,NAVI_GATOR,0,1
+"On 10/25/2023, Professor David Lee speculated that the popularity of electric vehicles at Tesla would likely rise.",0,miscellaneous,llama-3.1-70b-instruct,NAVI_GATOR,0,2
+Research advisor Dr. Lisa Nguyen predicted on 8/15/2024 that the stock price of Apple may fall.,0,miscellaneous,llama-3.1-70b-instruct,NAVI_GATOR,0,3
+"According to Chef Daniel Hall, the sweetness of the chocolate cake at The Sweet Spot would decrease in late 2023.",0,miscellaneous,llama-3.1-70b-instruct,NAVI_GATOR,0,4
+"In 2021, Professor James Davis envisioned that the crime rate in New York City had some probability to remain stable.",0,miscellaneous,llama-3.1-70b-instruct,NAVI_GATOR,0,5
+"The sales of Nike shoes should stay the same in Q4 of 2023, according to Marketing Manager Emily Chen.",0,miscellaneous,llama-3.1-70b-instruct,NAVI_GATOR,0,6
+"Research advisor, Dr. Rachel Kim, noted that the number of citations for her research paper at Harvard University increased in September 2022.",0,miscellaneous,llama-3.3-70b-instruct,NAVI_GATOR,0,1
+"On 02-15-2020, senior level person, Michael Davis, observed that the employee engagement at Microsoft rose significantly.",0,miscellaneous,llama-3.3-70b-instruct,NAVI_GATOR,0,2
+"College student, Emily Chen, recorded that on November 10, 2023, the response time for the college website at University of California improved.",0,miscellaneous,llama-3.3-70b-instruct,NAVI_GATOR,0,3
+"According to top executive, James Lee, the market share of Samsung in the smartphone industry fell in January 2022.",0,miscellaneous,llama-3.3-70b-instruct,NAVI_GATOR,0,4
+"In October 2021, miscellaneous analyst, David Hall, envisioned that the customer retention rate at Amazon remained relatively stable.",0,miscellaneous,llama-3.3-70b-instruct,NAVI_GATOR,0,5
+"The satisfaction rate of patients at Mayo Clinic stayed consistent in June 2023, according to expert, Dr. Lisa Nguyen.",0,miscellaneous,llama-3.3-70b-instruct,NAVI_GATOR,0,6
+Professor Rachel Kim observed that the average GPA at Harvard University stayed stable in January 2022.,0,miscellaneous,llama-3.1-8b-instruct,NAVI_GATOR,0,1
+"On 09/15/2023, Research Advisor David Lee recorded that the success rate of the new marketing campaign at Google increased.",0,miscellaneous,llama-3.1-8b-instruct,NAVI_GATOR,0,2
+"Dr. Emily Patel noted that on 04/25/2024, the stock prices of Apple Inc. rose.",0,miscellaneous,llama-3.1-8b-instruct,NAVI_GATOR,0,3
+"According to Senior Level Person Michael Brown, the employee satisfaction rate at Amazon dropped in Q2 of 2023.",0,miscellaneous,llama-3.1-8b-instruct,NAVI_GATOR,0,4
+"In 2027, College Student Olivia Martin observed that the popularity of online courses at Coursera remained consistent.",0,miscellaneous,llama-3.1-8b-instruct,NAVI_GATOR,0,5
+"Lecture attendance improved in Fall 2022, according to Professor James Davis.",0,miscellaneous,llama-3.1-8b-instruct,NAVI_GATOR,0,6
+"Dr. Amelia Johnson, a research advisor at the National Weather Service, observed that the frequency of hurricanes in the Atlantic region had decreased significantly in the past decade.",0,miscellaneous,mistral-7b-instruct,NAVI_GATOR,0,1
+"On Q4 of 2026, Mr. David Kim, a market analyst at Goldman Sachs, speculates that the stock market will likely rebound.",0,miscellaneous,mistral-7b-instruct,NAVI_GATOR,0,2
+"According to Ms. Emily Davis, the CEO of Tesla, the company's electric vehicle sales may surge in the next fiscal year.",0,miscellaneous,mistral-7b-instruct,NAVI_GATOR,0,3
+"In Q2 of 2025, Dr. Robert Brown, a professor of economics, predicted that inflation rates would fall.",0,miscellaneous,mistral-7b-instruct,NAVI_GATOR,0,4
+"In the summer of 2027, Ms. Sophia Lee, a college student, envisions that the number of students enrolled in her university may remain stable.",0,miscellaneous,mistral-7b-instruct,NAVI_GATOR,0,5
+"The efficiency of the assembly line at the Ford factory should stay the same, according to Mr. John Thompson, the plant manager.",0,miscellaneous,mistral-7b-instruct,NAVI_GATOR,0,6
+The senior analyst at Tech Innovators noted that the stock price of GreenTech Solutions had fallen in Q2 of 2023.,0,miscellaneous,mistral-small-3.1,NAVI_GATOR,0,1
+"On 07/15/2022, the market researcher at TrendWatchers saw that the consumer confidence index at RetailMart would likely rise.",0,miscellaneous,mistral-small-3.1,NAVI_GATOR,0,2
+"The financial advisor at WealthWise predicted on 05/10/2021, the interest rates at National Bank may drop.",0,miscellaneous,mistral-small-3.1,NAVI_GATOR,0,3
+"According to the CEO of EcoClean, the sales of eco-friendly products had increased in January 2020.",0,miscellaneous,mistral-small-3.1,NAVI_GATOR,0,4
+"In Q4 of 2022, the data scientist at DataDive envisions that the customer retention rate at FitLife had some probability to stay stable.",0,miscellaneous,mistral-small-3.1,NAVI_GATOR,0,5
+"The performance metrics at the Marketing Department stayed the same in February 2023, according to the marketing manager.",0,miscellaneous,mistral-small-3.1,NAVI_GATOR,0,6

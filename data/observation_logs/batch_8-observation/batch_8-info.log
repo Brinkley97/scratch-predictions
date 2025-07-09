@@ -1,0 +1,40 @@
+2025-06-17 12:34:24,051 - INFO - Logging configured to save to: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/data/observation_logs
+2025-06-17 12:34:24,053 - INFO - DataFrame successfully written to CSV: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/data/observation_logs/batch_8-observation/batch_8-from_df.csv
+2025-06-17 12:34:24,054 - INFO - CSV content successfully written to log file: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/data/observation_logs/batch_8-observation/batch_8-from_csv.log
+2025-06-17 12:54:44,138 - INFO - Logging configured to save to: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/pipelines/../data/observation_logs
+2025-06-17 12:54:44,139 - INFO - CSV file successfully read into DataFrame: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/pipelines/../data/observation_logs/batch_8-observation/batch_8-from_df.csv
+2025-07-03 15:58:33,387 - INFO - Logging configured to save to: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/misc_experiments/../data/observation_logs
+2025-07-03 15:58:33,387 - INFO - CSV file successfully read into DataFrame: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/misc_experiments/../data/observation_logs/batch_8-observation/batch_8-from_df.csv
+2025-07-03 16:06:40,348 - INFO - Logging configured to save to: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/misc_experiments/../data/observation_logs
+2025-07-03 16:06:40,349 - INFO - CSV file successfully read into DataFrame: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/misc_experiments/../data/observation_logs/batch_8-observation/batch_8-from_df.csv
+2025-07-03 16:06:57,625 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-07-03 16:07:19,173 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-07-03 16:30:07,054 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 16:30:09,524 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 16:30:24,107 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 16:30:26,853 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 16:36:53,621 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-07-03 16:37:03,330 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 16:37:05,244 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 17:43:50,118 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-03 17:43:51,327 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-07 23:28:18,916 - INFO - Logging configured to save to: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/prediction_correctness_experiments/../data/observation_logs
+2025-07-07 23:28:18,917 - INFO - CSV file successfully read into DataFrame: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/prediction_correctness_experiments/../data/observation_logs/batch_8-observation/batch_8-from_df.csv
+2025-07-07 23:33:48,453 - INFO - Logging configured to save to: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/prediction_correctness_experiments/../data/observation_logs
+2025-07-07 23:33:48,454 - INFO - CSV file successfully read into DataFrame: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/prediction_correctness_experiments/../data/observation_logs/batch_8-observation/batch_8-from_df.csv
+2025-07-07 23:42:41,022 - INFO - Logging configured to save to: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/prediction_correctness_experiments/../data/observation_logs
+2025-07-07 23:42:41,023 - INFO - CSV file successfully read into DataFrame: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/prediction_correctness_experiments/../data/observation_logs/batch_8-observation/batch_8-from_df.csv
+2025-07-08 12:54:19,968 - INFO - Logging configured to save to: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/prediction_correctness_experiments/../data/observation_logs
+2025-07-08 12:54:19,969 - INFO - CSV file successfully read into DataFrame: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/prediction_correctness_experiments/../data/observation_logs/batch_8-observation/batch_8-from_df.csv
+2025-07-08 12:57:57,868 - INFO - Logging configured to save to: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/prediction_correctness_experiments/../data/observation_logs
+2025-07-08 12:57:57,868 - INFO - CSV file successfully read into DataFrame: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/prediction_correctness_experiments/../data/observation_logs/batch_8-observation/batch_8-from_df.csv
+2025-07-08 12:58:23,942 - INFO - Logging configured to save to: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/prediction_correctness_experiments/../data/observation_logs
+2025-07-08 12:58:23,942 - INFO - CSV file successfully read into DataFrame: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/prediction_correctness_experiments/../data/observation_logs/batch_8-observation/batch_8-from_df.csv
+2025-07-08 13:08:12,923 - INFO - Logging configured to save to: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/prediction_correctness_experiments/../data/observation_logs
+2025-07-08 13:08:12,923 - INFO - CSV file successfully read into DataFrame: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/prediction_correctness_experiments/../data/observation_logs/batch_8-observation/batch_8-from_df.csv
+2025-07-09 11:16:07,633 - INFO - Logging configured to save to: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/prediction_correctness_experiments/../data/observation_logs
+2025-07-09 11:16:07,634 - INFO - CSV file successfully read into DataFrame: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/prediction_correctness_experiments/../data/observation_logs/batch_8-observation/batch_8-from_df.csv
+2025-07-09 12:17:15,422 - INFO - Logging configured to save to: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/pipelines/../data/observation_logs
+2025-07-09 12:17:15,423 - INFO - CSV file successfully read into DataFrame: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/pipelines/../data/observation_logs/batch_8-observation/batch_8-from_df.csv
+2025-07-09 12:17:55,229 - INFO - Logging configured to save to: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/pipelines/../data/observation_logs
+2025-07-09 12:17:55,230 - INFO - CSV file successfully read into DataFrame: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/pipelines/../data/observation_logs/batch_8-observation/batch_8-from_df.csv

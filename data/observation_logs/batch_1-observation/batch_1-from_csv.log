@@ -1,0 +1,202 @@
+CSV Row: Base Sentence, Sentence Label, Domain, Model Name, API Name, Batch ID, Template Number
+CSV Row: The financial analyst at Goldman Sachs observed that the operating income at Tesla had increased in the first quarter of 2024., 0, finance, llama-3.1-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 2024-08-20 to 2025-08-20, Morgan Stanley speculates the stock price at Amazon will likely rise., 0, finance, llama-3.1-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: A young investor predicts on 2025-03-15, the S&P 500 index may rise., 0, finance, llama-3.1-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to Bank of America, the net profit at Microsoft would fall in the second quarter of 2026., 0, finance, llama-3.1-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In 2027-01-01 to 2027-12-31, Wells Fargo envisions that the interest rates at the Federal Reserve have some probability to remain stable., 0, finance, llama-3.1-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The trading volume at Apple should stay same in the fourth quarter of 2025, according to a financial expert at JPMorgan Chase., 0, finance, llama-3.1-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: JPMorgan observed that the net profit at Microsoft had risen in September 2023., 0, finance, llama-3.3-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On November 10, 2022, to November 10, 2023, Citigroup speculates the research and development expenses at Amazon will likely increase., 0, finance, llama-3.3-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Bank of America predicts on October 15, 2024, the operating income at Johnson & Johnson may rise., 0, finance, llama-3.3-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to Google, the gross profit at Facebook would fall in the second quarter of 2026., 0, finance, llama-3.3-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In the fourth quarter of 2027, Wells Fargo envisions that the operating cash flow at Intel has some probability to remain stable., 0, finance, llama-3.3-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: Intel stock price should stay the same in January 2028, according to a financial expert at Harvard University., 0, finance, llama-3.3-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Noticing a downward trend, JP Morgan analysts observed that the net profit at Tesla had decreased in Q2 2023., 0, finance, mixtral-8x7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 01/01/2024, Goldman Sachs speculates that the stock price at Microsoft will likely increase in the coming year., 0, finance, mixtral-8x7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Warren Buffett predicts on Q3 of 2025, the revenue of Amazon may rise due to their expansion in the Asian market., 0, finance, mixtral-8x7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to a recent report by BlackRock, the operating cash flow at ExxonMobil would fall in 2026., 0, finance, mixtral-8x7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q2 2025, a financial research advisor envisions that the research and development expenses at Google has some probability to remain stable., 0, finance, mixtral-8x7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The trading volume at Apple should stay the same in Q3 2025, according to a college student's stock market analysis., 0, finance, mixtral-8x7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Morgan Stanley observed that the revenue at FUBU had increased for Q3 2028., 0, finance, llama-3.1-8b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 2024-08-21, Goldman Sachs noted that the interest rates at the Federal Reserve rose., 0, finance, llama-3.1-8b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Morgan Stanley observed that on 21/08/2024, the NASDAQ composite index climbed moderately., 0, finance, llama-3.1-8b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to Chase Bank, the returns at emerging market equities dropped in Q2 2027., 0, finance, llama-3.1-8b-instruct, NAVI_GATOR, 0, 4
+CSV Row: On 2024/08/21, Wells Fargo noted that U.S. Treasury yields remained stable., 0, finance, llama-3.1-8b-instruct, NAVI_GATOR, 0, 5
+CSV Row: Apple stock price decreased in August 2024, according to Roger., 0, finance, llama-3.1-8b-instruct, NAVI_GATOR, 0, 6
+CSV Row: The financial analyst at Goldman Sachs observed that the net profit at Tesla had decreased in Q2 2026., 0, finance, mistral-7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On August 15, 2027, the financial expert at Morgan Stanley speculates the operating cash flow at Apple will likely increase., 0, finance, mistral-7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: According to the financial top executive at BlackRock, the stock price at Amazon may rise in Q4 2028., 0, finance, mistral-7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: In Q1 2030, the financial senior level person at JPMorgan Chase predicted that the revenue at Microsoft would fall., 0, finance, mistral-7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: On March 1, 2029, the financial advisor at Wells Fargo envisions that the inflation rate at the Federal Reserve has some probability to remain stable., 0, finance, mistral-7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The trading volume at Alibaba remained stable, according to the research advisor at Bank of America., 0, finance, mistral-7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: The senior analyst at JPMorgan Chase observed that the net profit at Microsoft had decreased in 2023., 0, finance, mistral-small-3.1, NAVI_GATOR, 0, 1
+CSV Row: On 09/15/2022, a financial expert at Citibank speculated the gross profit at Amazon would likely increase., 0, finance, mistral-small-3.1, NAVI_GATOR, 0, 2
+CSV Row: The research advisor at Harvard University predicted on 12/12/2021, the stock price of Tesla may rise., 0, finance, mistral-small-3.1, NAVI_GATOR, 0, 3
+CSV Row: According to the CEO of Berkshire Hathaway, the operating income at Walmart would fall in Q4 2020., 0, finance, mistral-small-3.1, NAVI_GATOR, 0, 4
+CSV Row: In 2022, a financial reporter at Bloomberg envisioned that the revenue at Apple had some probability to remain stable., 0, finance, mistral-small-3.1, NAVI_GATOR, 0, 5
+CSV Row: The operating cash flow at IBM should stay the same in 2021, according to the financial analyst at Morgan Stanley., 0, finance, mistral-small-3.1, NAVI_GATOR, 0, 6
+CSV Row: The American Heart Association observed that the blood pressure at urban hospitals had risen from 2022 to 2023., 0, health, llama-3.1-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 11/15/2025, Dr. Lee predicted that the average body mass index at rural high schools would likely increase., 0, health, llama-3.1-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: The National Institute of Mental Health reported that on 9/10/2030, the participation rate in stress management workshops may rise., 0, health, llama-3.1-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to a study conducted by the University of California, the vitamin D levels at West Coast elementary schools would fall in the winter of 2028., 0, health, llama-3.1-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q2 2026, Dr. Patel envisioned that the national average sleep duration has some probability to remain stable., 0, health, llama-3.1-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The daily caloric intake of teenagers should stay the same in the summer of 2027, according to a report by the Academy of Nutrition and Dietetics., 0, health, llama-3.1-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: The American Heart Association observed that the blood pressure at local community clinics had risen from February 10, 2023, to August 15, 2023., 0, health, llama-3.3-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On November 22, 2022, Dr. Lee predicted that the obesity rates at suburban high schools would likely increase., 0, health, llama-3.3-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: The World Health Organization reported that on October 12, 2025, the life expectancy at rural hospitals may decline., 0, health, llama-3.3-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to a study conducted by Harvard University, the average body mass index at urban elementary schools would fall in the summer of 2028., 0, health, llama-3.3-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In the fourth quarter of 2026, Professor Patel envisioned that the national average of daily fruit consumption has some probability to remain stable., 0, health, llama-3.3-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The Centers for Disease Control and Prevention noted that the incidence of infectious diseases at international airports should stay the same from January 2024 to December 2024, according to their records., 0, health, llama-3.3-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Dr. Smith observed that the obesity rates in high schools across Texas have decreased in Q2 2, 0, health, mixtral-8x7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: According to the study conducted at Harvard, the patients' blood pressure at all hospitals in Massachusetts decreased from Q2 2022 to Q4 2022., 0, health, llama-3.1-8b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 11/28/2036, Dr. Rachel Kim reported that the vaccination rates at urban high schools increased., 0, health, llama-3.1-8b-instruct, NAVI_GATOR, 0, 2
+CSV Row: The CDC identified that on 2/10/2050, the obesity rates at regional clinics rose., 0, health, llama-3.1-8b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to my research, the fiber intake at college cafeterias fell on 4/15/2029., 0, health, llama-3.1-8b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q3 2028, Professor David Lee recorded that the daily step count of individuals remained stable., 0, health, llama-3.1-8b-instruct, NAVI_GATOR, 0, 5
+CSV Row: Physical activity levels among children stayed the same in early Q2 2025, according to Dr. Michael Brown's study., 0, health, llama-3.1-8b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Dr. Amelia Johnson observed that the obesity rates at the local high schools had decreased significantly from 2025 to 2027., 0, health, mistral-7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 2028/02/15, Dr. Alex Rodriguez speculates that the prevalence of diabetes at community health centers will likely increase., 0, health, mistral-7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: According to the research conducted by Dr. Sarah Williams, the number of flu cases at hospitals may rise in Q4 of 2030., 0, health, mistral-7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: In 2032, the CDC predicts that the average life expectancy at birth would fall., 0, health, mistral-7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q1 of 2035, Dr. Michael Brown envisions that the mental health awareness at universities may have some probability to remain stable., 0, health, mistral-7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The physical activity levels among adults under 30 should stay the same in 2037, according to the study conducted by Dr. Emily Davis., 0, health, mistral-7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: The American Heart Association observed that the obesity rates at rural clinics in Kansas had decreased in 2023., 0, health, mistral-small-3.1, NAVI_GATOR, 0, 1
+CSV Row: On 11/15/2022, the World Health Organization speculated the prevalence of chronic illnesses at urban hospitals in New York would likely increase., 0, health, mistral-small-3.1, NAVI_GATOR, 0, 2
+CSV Row: Dr. Emily Chen predicted on 03/19/2026, the average physical activity levels at community centers in California may rise., 0, health, mistral-small-3.1, NAVI_GATOR, 0, 3
+CSV Row: According to the Centers for Disease Control and Prevention, the nutritional intake at local schools in Texas would fall in 2028., 0, health, mistral-small-3.1, NAVI_GATOR, 0, 4
+CSV Row: In 2025, the National Institute of Health envisioned that the average blood pressure levels at primary care clinics in Ohio had some probability to remain stable., 0, health, mistral-small-3.1, NAVI_GATOR, 0, 5
+CSV Row: The diabetes management rates at regional hospitals stayed the same in 2027, according to the American Diabetes Association., 0, health, mistral-small-3.1, NAVI_GATOR, 0, 6
+CSV Row: Policy researcher, David Lee, observed that the election outcomes at swing districts had decreased in Q2 2028., 0, policy, llama-3.1-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 10/12/2025, the Center for Strategic and International Studies speculated the legislative impacts at the state-level agencies will likely increase., 0, policy, llama-3.1-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Economist, Dr. Sophia Patel, predicts on 8/20/2029, the economic reforms at urban zones may rise., 0, policy, llama-3.1-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to policy advisor, Emily Wong, the job creation rate at her nonprofit coalition would fall in Q1 2027., 0, policy, llama-3.1-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q3 2026, policy analyst, Kevin White, envisions that the trade policy compliance at Southeast Asian nations has some probability to remain stable., 0, policy, llama-3.1-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: Housing subsidies should stay the same in Q4 2025, according to Senator, Rachel Lee., 0, policy, llama-3.1-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: The National Bureau of Economic Research observed that the economic growth rate at the Federal Reserve had increased in September 2025., 0, policy, llama-3.3-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On February 10, 2028, the Congressional Budget Office speculated that the budget deficit at the Department of Defense would likely decrease., 0, policy, llama-3.3-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Policy advisor, David Kim, predicts on November 20, 2029, that the healthcare expenditure at Medicare may rise., 0, policy, llama-3.3-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to the Center for American Progress, the voter turnout at local elections would fall in the spring of 2027., 0, policy, llama-3.3-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In the fourth quarter of 2026, economist, Dr. Lisa Nguyen, envisions that the trade balance at the United States has some probability to remain stable., 0, policy, llama-3.3-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The World Bank notes that the foreign aid allocation in Sub-Saharan Africa should stay the same by the end of 2030, according to their senior economist, Dr. Amara Ndiaye., 0, policy, llama-3.3-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Policy analyst, Claire, observed that the number of homeless veterans in Los Angeles County had decreased in Q2 2024., 0, policy, mixtral-8x7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On January 1, 2030, the World Bank noted that the implementation of renewable energy policies in developing countries will likely increase., 0, policy, mixtral-8x7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: The policy expert, Dr. Anderson, predicts on Q3 of 2027, the unemployment rate in the manufacturing sector may rise., 0, policy, mixtral-8x7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to the Department of Labor, the number of workplace safety violations in the construction industry would fall in 2025., 0, policy, mixtral-8x7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In 2022, the Center for Disease Control envisions that the obesity rate in American children has some probability to remain stable., 0, policy, mixtral-8x7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The obesity rate in American children should stay the same in 2022, according to the Center for Disease Control., 0, policy, mixtral-8x7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Local researcher, Emily Chen, observed that the unemployment rate in New York City had decreased on 11/12/2024., 0, policy, llama-3.1-8b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 2/27/2025, the World Bank noted that foreign aid at developing countries had some probability to remain stable., 0, policy, llama-3.1-8b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Dr. Sophia Patel predicts on 9/18/2026, the GDP growth rate in her region may rise., 0, policy, llama-3.1-8b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to Senator James Davis, the voter turnout at local elections would fall in Q2 2028., 0, policy, llama-3.1-8b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In 2027, policy advisor David Kim envisions that the number of renewable energy projects has some chance to increase., 0, policy, llama-3.1-8b-instruct, NAVI_GATOR, 0, 5
+CSV Row: Renewable energy investments stayed the same in Q1 2029, according to Dr. Rachel Taylor., 0, policy, llama-3.1-8b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Policy analyst, Dr. Amelia Johnson, observed that the unemployment rate in the city of Seattle had decreased on 12/15/2025., 0, policy, mistral-7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 01/01/2026, the World Bank speculates the inflation rate in developing countries will likely increase., 0, policy, mistral-7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Dr. Robert Martinez predicts on 04/01/2027, the stock market index may rise., 0, policy, mistral-7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to the Federal Reserve Chairman, the interest rates at major banks would fall in Q2 of 2028., 0, policy, mistral-7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q3 of 2029, the policy strategist, Ms. Sophia Lee, envisions that the housing prices in urban areas have some probability to remain stable., 0, policy, mistral-7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The renewable energy investments in Europe should stay the same on 07/01/2030, according to the European Commission., 0, policy, mistral-7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: The World Bank reported that the unemployment rate in developing nations had decreased in 2025., 0, policy, mistral-small-3.1, NAVI_GATOR, 0, 1
+CSV Row: On 03/15/2028, the Congressional Budget Office noted that the budget deficit in the United States would likely increase., 0, policy, mistral-small-3.1, NAVI_GATOR, 0, 2
+CSV Row: The Federal Reserve predicted on 05/10/2029, the inflation rate in the Eurozone may rise., 0, policy, mistral-small-3.1, NAVI_GATOR, 0, 3
+CSV Row: According to the International Labour Organization, the labor force participation rate in emerging markets would fall in 2026., 0, policy, mistral-small-3.1, NAVI_GATOR, 0, 4
+CSV Row: In Q2 of 2030, the United Nations Development Programme envisioned that the poverty rate in sub-Saharan Africa had some probability to remain stable., 0, policy, mistral-small-3.1, NAVI_GATOR, 0, 5
+CSV Row: The healthcare spending in rural areas stayed the same in 2027, according to the Centers for Medicare & Medicaid Services., 0, policy, mistral-small-3.1, NAVI_GATOR, 0, 6
+CSV Row: Meteorologist Tom Harris observed that the air pressure at Denver had decreased on 2024-08-15., 0, weather, llama-3.1-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 2025-02-20, Dr. Sophia Rodriguez speculates the temperature at Miami will likely increase., 0, weather, llama-3.1-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: I predict on 2023-11-12, the wind chill at Chicago may rise., 0, weather, llama-3.1-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to Meteorologist David Lee, the precipitation levels at Seattle would fall in Q3 of 2024., 0, weather, llama-3.1-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In 2022-09-01, the National Weather Service envisions that the cloud coverage at New York has some probability to remain stable., 0, weather, llama-3.1-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The humidity in Atlanta should stay same on 2024-06-15, according to Meteorologist Rachel Kim., 0, weather, llama-3.1-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Meteorologist Tom Harris observed that the air pressure at the National Weather Service had decreased on September 10, 2024., 0, weather, llama-3.3-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On February 27, 2025, Dr. Sophia Rodriguez speculates the temperature at the University of Michigan will likely increase., 0, weather, llama-3.3-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Research Advisor Michael Chen predicts on November 15, 2023, the precipitation levels at the Weather Research Center may rise., 0, weather, llama-3.3-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to Senior Meteorologist Emily Lee, the wind gusts at the Chicago O'Hare International Airport would fall in October 2022., 0, weather, llama-3.3-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In the third quarter of 2026, Meteorologist David Kim envisions that the cloud coverage at the Seoul Weather Bureau has some probability to remain stable., 0, weather, llama-3.3-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The humidity at the Miami International Airport should stay the same on January 2, 2024, according to Meteorologist Rachel Hall., 0, weather, llama-3.3-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Meteorologist Sarah Thompson noticed that the temperature in Miami had decreased on the morning of June 1, 2, 0, weather, mixtral-8x7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: The chief meteorologist observed that the temperature at the National Weather Service had decreased in 2024-08-21., 0, weather, llama-3.1-8b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 08/21/2024, Dr. Maria Rodriguez, a renowned climatologist, reported that the precipitation at the University of California, Berkeley will likely increase., 0, weather, llama-3.1-8b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Dr. John Taylor, a leading atmospheric scientist, predicts on 21 August 2024, the dew point at the NASA Jet Propulsion Laboratory may rise., 0, weather, llama-3.1-8b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to Mr. David Lee, a senior weather analyst, the wind speed at the Federal Aviation Administration had fallen in Q3 of 2027., 0, weather, llama-3.1-8b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In 2024/08/21, Professor Sarah Kim, a respected meteorology professor, envisions that the cloud coverage at the National Oceanic and Atmospheric Administration has some probability to remain stable., 0, weather, llama-3.1-8b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The temperature at the National Center for Atmospheric Research should stay same 21 Aug 2024, according to Dr. Michael Brown, a renowned atmospheric physicist., 0, weather, llama-3.1-8b-instruct, NAVI_GATOR, 0, 6
+CSV Row: The National Weather Service analyst, Dr. Amelia Johnson, observed that the precipitation at Seattle had decreased significantly on August 21, 2024., 0, weather, mistral-7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On August 21, 2024, Meteorologist Alex Chen predicted that the temperature at Los Angeles will likely increase., 0, weather, mistral-7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Dr. Sarah Kim, a weather researcher at the University of California, predicts that on August 21, 2024, the wind speed in San Francisco may rise., 0, weather, mistral-7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to the Chief Meteorologist, Mr. Robert Lee, the temperature at New York City would fall in August 21, 2024., 0, weather, mistral-7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In August 21, 2024, Dr. James Wilson, a weather expert, envisions that the humidity at Miami has some probability to remain stable., 0, weather, mistral-7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: Miami's humidity remained stable on August 21, 2024, according to the National Hurricane Center., 0, weather, mistral-7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: The National Weather Service observed that the precipitation at Seattle had decreased on 09/15/2023., 0, weather, mistral-small-3.1, NAVI_GATOR, 0, 1
+CSV Row: On 05/22/2024, Dr. Emily Hart noted that the temperature at Miami would likely increase., 0, weather, mistral-small-3.1, NAVI_GATOR, 0, 2
+CSV Row: The Weather Channel predicted on 11/10/2023, the humidity at Phoenix may rise., 0, weather, mistral-small-3.1, NAVI_GATOR, 0, 3
+CSV Row: According to the senior meteorologist, the wind speed at Denver would fall on 03/14/2023., 0, weather, mistral-small-3.1, NAVI_GATOR, 0, 4
+CSV Row: In 02/2023, the Weather Bureau envisions that the snowfall in Boston has some probability to remain stable., 0, weather, mistral-small-3.1, NAVI_GATOR, 0, 5
+CSV Row: The dew point at San Francisco should stay the same on 07/25/2023, according to the local weather station., 0, weather, mistral-small-3.1, NAVI_GATOR, 0, 6
+CSV Row: Analyst Rachel Brown observed that the points scored at the Chicago Bulls had increased in the 2022-2023 season., 0, sport, llama-3.1-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 10/20/2023, Coach James Davis speculates the passing yards at the Kansas City Chiefs will likely rise., 0, sport, llama-3.1-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Coach Emily Chen predicts on 8/15/2024, the New England Patriots' touchdown count may fall., 0, sport, llama-3.1-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to Analyst Michael Lee, the save percentage at the Toronto Maple Leafs would improve in the 2023-2024 season., 0, sport, llama-3.1-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q2 of 2024, Coach David Hall envisions that the Los Angeles Dodgers' home run count has some probability to remain stable., 0, sport, llama-3.1-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The New York Giants' win ratio should stay the same in the 2024 season, according to Analyst Sophia Patel., 0, sport, llama-3.1-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: ESPN analyst John Smith observed that the rebounding margin at the Chicago Bulls had increased in September 2024., 0, sport, llama-3.3-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 02/20/2025, Coach Michael Brown speculates the free throw percentage at the Golden State Warriors will likely rise., 0, sport, llama-3.3-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Analyst Emily Chen predicts on 10/15/2023, the Los Angeles Dodgers' strikeout rate may fall., 0, sport, llama-3.3-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to NBA expert David Thompson, the block rate at the Milwaukee Bucks would decrease in the fourth quarter of 2022., 0, sport, llama-3.3-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In the summer of 2024, Coach James Davis envisions that the serve speed at the Australian Open has some probability to remain high., 0, sport, llama-3.3-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The passing yards at the New England Patriots should stay consistent in the second half of 2024, according to Coach Brian Kelly., 0, sport, llama-3.3-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: In the third quarter of 2, 0, sport, mixtral-8x7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: Coach Thompson observed that the free throw percentage at the Chicago Bulls decreased in 2024-08-21., 0, sport, llama-3.1-8b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 21 Aug 2024, Analyst Patel speculates the home run count at the Los Angeles Dodgers will likely increase., 0, sport, llama-3.1-8b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Analyst Rodriguez predicts on Q3 of 2027, the foul count at the Golden State Warriors may rise., 0, sport, llama-3.1-8b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to the New York Giants staff, the rushing yards at the New York Giants fell in August 21, 2024., 0, sport, llama-3.1-8b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q3 of 2029, Coach Lee envisions that the win percentage at the Boston Celtics has some probability to remain stable., 0, sport, llama-3.1-8b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The corner kick count at the Manchester United FC stayed same in 2024-08-21, according to the Manchester United FC staff., 0, sport, llama-3.1-8b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Analyst Emily Chen observed that the home run count at the Chicago Cubs had decreased in Q3 of 2027., 0, sport, mistral-7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On August 21, 2024, Analyst Alex Thompson speculates the win rate at the Los Angeles Lakers will likely increase., 0, sport, mistral-7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Coach James Kim predicts on 2029 of Q3, the assist rate at the Golden State Warriors may rise., 0, sport, mistral-7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to Research Advisor Sarah Lee, the three-point percentage at the Milwaukee Bucks would fall in 21 August 2045., 0, sport, mistral-7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In 2032 of Q2, Analyst Michael Park envisions that the save percentage at the Toronto Maple Leafs has some probability to remain stable., 0, sport, mistral-7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The goals per match at the Bayern Munich surged in March 2026, according to Coach David Kim., 0, sport, mistral-7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Analyst Jamie Lee observed that the turnover rate at the Chicago Bulls had increased in Q2 of 2023., 0, sport, mistral-small-3.1, NAVI_GATOR, 0, 1
+CSV Row: On 04/15/2022, Coach Mike Thompson speculated the goal count at Manchester United would likely rise., 0, sport, mistral-small-3.1, NAVI_GATOR, 0, 2
+CSV Row: Analyst Patricia Clark predicted on 07/19/2021, the Philadelphia Eagles rushing yards may fall., 0, sport, mistral-small-3.1, NAVI_GATOR, 0, 3
+CSV Row: According to the New York Mets staff, the strikeout rate at the New York Mets would drop in 2024 of Q1., 0, sport, mistral-small-3.1, NAVI_GATOR, 0, 4
+CSV Row: In 2023 of Q4, Coach Linda Harris envisioned that the Cleveland Cavaliers' free throw percentage had some probability to stay stable., 0, sport, mistral-small-3.1, NAVI_GATOR, 0, 5
+CSV Row: The free kick accuracy at the Seattle Sounders should stay the same in 2022 of Q3, according to Coach Alex Rodriguez., 0, sport, mistral-small-3.1, NAVI_GATOR, 0, 6
+CSV Row: Dr. Rachel Kim observed that the number of students attending the career fair at Stanford University decreased in October 2022., 0, miscellaneous, llama-3.1-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 02/20/2023, Chef Liam Chen speculates the popularity of vegan dishes at The Green House will likely increase., 0, miscellaneous, llama-3.1-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Research advisor, Dr. David Lee predicts on 08/15/2024, the average GPA of students at Harvard University may rise., 0, miscellaneous, llama-3.1-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to Professor Sophia Patel, the number of books borrowed from the library at University of California would fall in January 2022., 0, miscellaneous, llama-3.1-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q2 of 2023, Analyst Tom Bradley envisions that the stock price of Apple has some probability to remain stable., 0, miscellaneous, llama-3.1-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The satisfaction rate of customers at Amazon should stay the same in 2024, according to Senior Vice President, Emily Wong., 0, miscellaneous, llama-3.1-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Research advisor, Dr. Rachel Kim, observed that the number of citations for her research paper at Harvard University had risen in September 2022., 0, miscellaneous, llama-3.3-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 02-15-2020, senior level person, Mr. David Lee, speculated that the demand for electric vehicles at General Motors would likely increase., 0, miscellaneous, llama-3.3-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: College student, Emily Patel, predicts on 11/20/2023, the price of textbooks at the university bookstore may fall., 0, miscellaneous, llama-3.3-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to top executive, Ms. Sophia Rodriguez, the employee retention rate at Microsoft would decrease in January 2021., 0, miscellaneous, llama-3.3-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In the fourth quarter of 2022, miscellaneous analyst, Jack Harris, envisions that the stock price of Amazon has a high probability to remain stable., 0, miscellaneous, llama-3.3-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The satisfaction rate of customers at Walmart should stay the same in October 2024, according to store manager, Michael Davis., 0, miscellaneous, llama-3.3-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Last month, data analyst Mary Thompson observed that the number of cybersecurity threats at her company had decreased., 0, miscellaneous, mixtral-8x7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On August 21, 2024, marketing expert John Kim speculates that the conversion rate of the company's website will likely increase., 0, miscellaneous, mixtral-8x7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: The CEO of XYZ Corporation predicts that the company's revenue will rise by the end of this quarter., 0, miscellaneous, mixtral-8x7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to the head of HR, the employee turnover rate at the company will fall in the next six months., 0, miscellaneous, mixtral-8x7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In the third quarter of this year, the CTO envisions that the company's IT infrastructure has some probability to remain stable., 0, miscellaneous, mixtral-8x7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The company's customer satisfaction should stay the same in the next quarter, according to the customer service manager., 0, miscellaneous, mixtral-8x7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Professor Rachel Kim observed that the stock prices at Goldman Sachs fell in Q2 of 2023., 0, miscellaneous, llama-3.1-8b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 08/15/2024, Dr. Eric Thompson speculates the crime rates in New York City will likely increase., 0, miscellaneous, llama-3.1-8b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Dr. Sophia Patel predicts on 2024-09-01, the sales figures at Amazon may rise., 0, miscellaneous, llama-3.1-8b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to Mr. Liam Chen, the customer satisfaction at Walmart would drop in 2025., 0, miscellaneous, llama-3.1-8b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In 2027, Professor David Lee envisions that the graduation rates at Harvard University have some probability to remain stable., 0, miscellaneous, llama-3.1-8b-instruct, NAVI_GATOR, 0, 5
+CSV Row: Lecture attendance improved in Spring 2024, according to Professor Emily Wong., 0, miscellaneous, llama-3.1-8b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Dr. Amelia Johnson, a miscellaneous analyst at the Environmental Protection Agency, observed that the air quality index in New York City had decreased significantly in the first quarter of 2025., 0, miscellaneous, mistral-7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 10/15/2026, research advisor Dr. Ethan Martinez speculates that the number of scientific publications in the field of artificial intelligence will likely increase., 0, miscellaneous, mistral-7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: According to Dr. Sophia Lee, the sales revenue for the tech startup, TechNova, may rise in the second half of 2028., 0, miscellaneous, mistral-7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: In the summer of 2027, Dr. David Kim predicts that the unemployment rate in the United States will fall., 0, miscellaneous, mistral-7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In the third quarter of 2029, Dr. Emily Chen envisions that the price of gold will have some probability to remain stable., 0, miscellaneous, mistral-7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The crime rate in Los Angeles should stay the same in 2026, according to Chief of Police, Mr. Robert Thompson., 0, miscellaneous, mistral-7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: The senior analyst at Bloomberg noted that the stock volatility at Tesla had increased in Q2 of 2023., 0, miscellaneous, mistral-small-3.1, NAVI_GATOR, 0, 1
+CSV Row: On 05/15/2022, the financial advisor at Morgan Stanley speculated the interest rates at Bank of America would likely increase., 0, miscellaneous, mistral-small-3.1, NAVI_GATOR, 0, 2
+CSV Row: The marketing director at Nike predicted on 11/20/2021, the sales of athletic shoes may rise., 0, miscellaneous, mistral-small-3.1, NAVI_GATOR, 0, 3
+CSV Row: According to the CEO of Apple, the market share of iPhones would fall in 2022., 0, miscellaneous, mistral-small-3.1, NAVI_GATOR, 0, 4
+CSV Row: In 2023, the research advisor at MIT envisioned that the enrollment rates at Harvard University had some probability to remain stable., 0, miscellaneous, mistral-small-3.1, NAVI_GATOR, 0, 5
+CSV Row: The customer satisfaction at Starbucks should stay the same in 2021, according to the senior manager., 0, miscellaneous, mistral-small-3.1, NAVI_GATOR, 0, 6

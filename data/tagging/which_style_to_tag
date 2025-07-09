@@ -1,0 +1,69 @@
+
+# Label data
+
+## Method 1: Word maps to either BIO with prediction property or O
+1   JPMorgan    B-p_source
+2   Chase   E-p_source
+2   forecasts   O
+3   that    O
+4   the O
+5   net B-p_outcome
+6   profit  E-p_outcome
+7   at  O
+8   Amazon  B-p_target
+9   potentially O
+10   decrease    B-p_outcome
+11  in  O
+12  Q3  B-p_date
+13    of  I-p_date
+14    2027  E-p_date
+15  .   O
+
+## Method 2: Word maps to either BIO with prediction property or POS Tag
+1   JPMorgan    B-p_source
+2   Chase   E-p_source
+2   forecasts   VERB
+3   that    SCONJ
+4   the DET
+5   net B-p_outcome
+6   profit  E-p_outcome
+7   at  ADJ
+8   Amazon  B-p_target
+9   potentially ADV
+10   decrease    B-p_outcome
+11  in  ADP
+12  Q3  B-p_date
+13  of  I-p_date
+14  2027  E-p_date
+15  .   PUNCT
+
+## Method 3: Word maps to either BIO with prediction property or O
+1   JPMorgan Chase  B-p_source
+2   forecasts   O
+3   that    O
+4   the O
+5   net profit  B-p_outcome
+6   at  O
+7   Amazon  B-p_target
+8   potentially O
+9   decrease    B-p_outcome
+10  in  O
+11  Q3 of 2027  B-p_date
+12  .   O
+
+## Method 4: Word maps to either prediction property or POS Tag
+1   JPMorgan Chase  p_source
+2   forecasts   VERB
+3   that    SCONJ
+4   the DET
+5   net profit  p_outcome
+6   at  ADJ
+7   Amazon  p_target
+8   potentially ADV
+9   decrease    p_outcome
+10  in  ADP
+11  Q3 of 2027  p_date
+12  .   PUNCT
+
+
+

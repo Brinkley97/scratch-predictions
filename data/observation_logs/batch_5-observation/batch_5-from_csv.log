@@ -1,0 +1,207 @@
+CSV Row: Base Sentence, Sentence Label, Domain, Model Name, API Name, Batch ID, Template Number
+CSV Row: JPMorgan Chase observed that the net profit at Amazon had remained stable in Q2 2026., 0, finance, llama-3.1-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 08/20/2024 to 08/20/2025, Bank of America speculated the operating income at Microsoft changed., 0, finance, llama-3.1-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Citigroup noted on 2024-08-20, the research and development expenses at Alphabet fell., 0, finance, llama-3.1-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to a financial analyst, the gross profit at Facebook rose in Q3 2025., 0, finance, llama-3.1-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In 2025-08-20, a college student envisioned that the operating cash flow at Intel decreased., 0, finance, llama-3.1-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The stock price at Google increased in August 2025, according to a research advisor., 0, finance, llama-3.1-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: JPMorgan Chase noted that the operating income at Microsoft had risen significantly on September 10, 2024., 0, finance, llama-3.3-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On November 20, 2023, to December 31, 2024, Citigroup speculated the research and development expenses at Amazon changed., 0, finance, llama-3.3-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Bank of America observed that on October 15, 2024, the net profit at General Motors fell sharply., 0, finance, llama-3.3-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to Visa, the transaction volume at Walmart rose substantially in the second quarter of 2027., 0, finance, llama-3.3-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In the fourth quarter of 2026, a financial analyst at Goldman Sachs envisioned that the dividend yield at Coca-Cola decreased., 0, finance, llama-3.3-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The S&P 500 index increased on January 2, 2025, according to a senior portfolio manager at Fidelity Investments., 0, finance, llama-3.3-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Noticing a positive trend, Jillian, a financial analyst, observed that the net profit at Microsoft had increased in Q2 of 2025., 0, finance, mixtral-8x7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 08/21/2024, Carl, a financial expert, speculated that the research and development expenses at Google had changed., 0, finance, mixtral-8x7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: During Q1 of 2025, a senior financial advisor, Mark, noted that the stock price at Amazon had fallen., 0, finance, mixtral-8x7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to a financial top executive, the operating income at Tesla rose significantly in Q3 of 2024., 0, finance, mixtral-8x7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q2 of 2025, a college student studying finance, Emily, envisioned that the gross profit at Facebook had decreased., 0, finance, mixtral-8x7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The operating cash flow at Apple increased in Q4 of 2024, according to a financial research advisor., 0, finance, mixtral-8x7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Morgan Stanley observed that the revenue at FUBU (his parents clothing line) had increased for Q3 2028., 0, finance, llama-3.1-8b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 2024-08-21, Goldman Sachs speculated the interest rates at the Federal Reserve changed., 0, finance, llama-3.1-8b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Morgan Stanley noted on 21/08/2024, the NASDAQ composite index fell., 0, finance, llama-3.1-8b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to Chase Bank, the returns at emerging market equities had remained stable in 2027 of Q3., 0, finance, llama-3.1-8b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In 2029 of Q3, Wells Fargo envisioned that the inflation rate at Wells Fargo decreased., 0, finance, llama-3.1-8b-instruct, NAVI_GATOR, 0, 5
+CSV Row: Apple stock price increased in 21 August 2024, according to My records., 0, finance, llama-3.1-8b-instruct, NAVI_GATOR, 0, 6
+CSV Row: The financial analyst at Goldman Sachs observed that the net profit at Tesla had remained stable from January 1, 2026 to December 31, 2026., 0, finance, mistral-7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On October 1, 2027, the financial expert at Morgan Stanley speculated that the operating cash flow at Amazon had changed., 0, finance, mistral-7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: The financial top executive at Apple noted on March 1, 2028, that the stock prices at Microsoft fell., 0, finance, mistral-7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to the financial senior level person at JPMorgan Chase, the revenue at Alphabet had risen in Q1 of 2029., 0, finance, mistral-7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q2 of 2030, the financial analyst at BlackRock envisioned that the research and development expenses at IBM decreased., 0, finance, mistral-7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The stock price at Netflix increased in Q3 of 2031, according to the financial advisor at Bank of America., 0, finance, mistral-7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: On 12/15/2026, a senior analyst at JPMorgan Chase noted that the gross profit at Tesla had increased., 0, finance, mistral-small-3.1, NAVI_GATOR, 0, 1
+CSV Row: On 03/12/2023, a financial advisor at Fidelity Investments speculated the net profit at Amazon changed., 0, finance, mistral-small-3.1, NAVI_GATOR, 0, 2
+CSV Row: A financial expert noted on 07/20/2027, the revenue at Microsoft fell., 0, finance, mistral-small-3.1, NAVI_GATOR, 0, 3
+CSV Row: According to a top executive at Berkshire Hathaway, the operating income at Apple rose in 2028., 0, finance, mistral-small-3.1, NAVI_GATOR, 0, 4
+CSV Row: In 09/10/2029, a financial analyst at Citigroup envisioned that the research and development expenses at Google decreased., 0, finance, mistral-small-3.1, NAVI_GATOR, 0, 5
+CSV Row: The stock price at Netflix increased in 02/12/2024, according to a financial reporter., 0, finance, mistral-small-3.1, NAVI_GATOR, 0, 6
+CSV Row: The American Heart Association observed that the blood pressure at urban hospitals had remained stable from 2022 to 2023., 0, health, llama-3.1-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 11/15/2025, Dr. Lee speculated the obesity rates at rural elementary schools changed., 0, health, llama-3.1-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: The National Institute of Mental Health reported that on 9/10/2030, the anxiety levels at college campuses fell., 0, health, llama-3.1-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to a study conducted by the University of California, the average physical activity levels at suburban high schools rose in Spring 2028., 0, health, llama-3.1-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q2 2026, Dr. Patel envisioned that the average body mass index at community centers decreased., 0, health, llama-3.1-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The daily caloric intake at nursing homes increased on 7/22/2029, according to a report by the Centers for Disease Control and Prevention., 0, health, llama-3.1-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: The American Heart Association observed that the blood pressure levels at local community clinics had remained stable from February 2022 to August 2023., 0, health, llama-3.3-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On November 15, 2021, a health researcher speculated the obesity rates at rural high schools changed., 0, health, llama-3.3-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Dr. Lee noted on October 10, 2020, the life expectancy at nursing homes fell., 0, health, llama-3.3-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to a study published in the Journal of Nutrition, the sugar intake at elementary schools rose in the summer of 2025., 0, health, llama-3.3-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In the fourth quarter of 2028, a team of health experts envisioned that the average body mass index at fitness centers decreased., 0, health, llama-3.3-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: Cardiovascular disease incidence at urban hospitals increased on January 2, 2024, according to the hospital's administrative records., 0, health, llama-3.3-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Dr. Smith observed that the obesity rates in high schools across Texas have remained stable from Q2 2023 to Q1 2024., 0, health, mixtral-8x7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 08/21/2024, the CDC speculated that the prevalence of flu cases at primary schools in the Midwest changed., 0, health, mixtral-8x7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Dr. Johnson noted on 2024-09-01, the number of patients with seasonal allergies at her clinic had fallen., 0, health, mixtral-8x7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to a study conducted at Johns Hopkins University, the mental health hospitalization rates in Maryland rose from Q1 2022 to Q4 2023., 0, health, mixtral-8x7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q2 of 2025, a research advisor envisioned that the physical activity levels among college students decreased., 0, health, mixtral-8x7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The number of vegetarian meal options at hospitals in California increased in 2023, according to a professional nutritionist., 0, health, mixtral-8x7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: The World Health Organization noted that the obesity rates at all hospitals in the United States stayed stable from 2020 to 2022., 0, health, llama-3.1-8b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 2024-08-15, the CDC observed that vaccination adherence at rural elementary schools changed., 0, health, llama-3.1-8b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Dr. Smith identified that on 2027-06-10, the diabetes prevalence at regional hospitals decreased., 0, health, llama-3.1-8b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to my study conducted at Harvard, the hydration levels at college cafeterias fell on 2029-02-14., 0, health, llama-3.1-8b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q4 2028, Professor Patel recorded that aerobic capacity among children increased., 0, health, llama-3.1-8b-instruct, NAVI_GATOR, 0, 5
+CSV Row: Physical activity levels among seniors rose on 2018-09-01, according to Dr. Lee's study., 0, health, llama-3.1-8b-instruct, NAVI_GATOR, 0, 6
+CSV Row: The World Health Organization (WHO) observed that the prevalence of malnutrition in children under five years old in developing countries had remained stable from 2022 to 2023., 0, health, mistral-7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 1st January 2026, Dr. Amelia Johnson speculated that the rate of obesity among adults in the United States changed., 0, health, mistral-7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Dr. David Kim noted on 14th February 2025, the average life expectancy at birth in Japan had fallen., 0, health, mistral-7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to the Centers for Disease Control and Prevention (CDC), the rate of HIV infections among young adults in the United States rose from 2020 to 2021., 0, health, mistral-7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q2 2028, Dr. Sarah Lee envisioned that the number of smoking-related deaths in the United States decreased., 0, health, mistral-7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The number of mental health cases among college students in the United States increased, according to a study conducted by the American College Health Association in 2023., 0, health, mistral-7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: The American Heart Association noted that the obesity rates in rural communities had remained stable in 2023., 0, health, mistral-small-3.1, NAVI_GATOR, 0, 1
+CSV Row: On 04/15/2022, the World Health Organization speculated the prevalence of chronic illnesses at urban clinics changed., 0, health, mistral-small-3.1, NAVI_GATOR, 0, 2
+CSV Row: Dr. Linda Green noted on 03/20/2021, the nutritional intake at local schools fell., 0, health, mistral-small-3.1, NAVI_GATOR, 0, 3
+CSV Row: According to the Centers for Disease Control and Prevention, the average physical activity levels at community centers rose in 2020., 0, health, mistral-small-3.1, NAVI_GATOR, 0, 4
+CSV Row: In 2019, the National Institutes of Health envisioned that the obesity rates in suburban areas decreased., 0, health, mistral-small-3.1, NAVI_GATOR, 0, 5
+CSV Row: The average blood pressure readings in patients increased in 2018, according to Dr. Robert Brown’s study., 0, health, mistral-small-3.1, NAVI_GATOR, 0, 6
+CSV Row: Policy researcher, David Lee, observed that the poverty rate at urban areas had remained stable in 2025., 0, policy, llama-3.1-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 10/12/2028, the Center for Strategic and International Studies speculated the election outcome at swing states changed., 0, policy, llama-3.1-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Policy analyst, Emily Patel, noted on 8/20/2029, the tax incentives at clean energy firms fell., 0, policy, llama-3.1-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to state senator, James Davis, the economic growth rate at rural counties rose in Q2 2027., 0, policy, llama-3.1-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q1 2026, economist, Dr. Sophia Rodriguez, envisioned that the infrastructure funding distribution at local governments decreased., 0, policy, llama-3.1-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: Lobbying intensity at Southeast Asian nations increased in 2024, according to the International Monetary Fund., 0, policy, llama-3.1-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Policy researcher, Dr. Thompson, observed that the voter turnout at local elections in Denver had remained stable on September 10, 2025., 0, policy, llama-3.3-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On February 22, 2028, the Urban Institute speculated the budget allocation for social services at city councils changed., 0, policy, llama-3.3-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Senator Rodriguez noted on November 15, 2029, the poverty rate in rural areas fell., 0, policy, llama-3.3-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to policy advisor, Ms. Patel, the number of small business loans at community banks rose in the second quarter of 2026., 0, policy, llama-3.3-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In the fourth quarter of 2027, economist, Dr. Lee, envisioned that the carbon emission levels in industrial zones decreased., 0, policy, llama-3.3-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: Healthcare expenditures increased in January 2024, according to research analyst, Mr. Kim., 0, policy, llama-3.3-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Policy analyst, Jane Smith, observed that the unemployment rate in California had remained stable in August 2024., 0, policy, mixtral-8x7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On January 1, 2025, the World Bank noted that the poverty rate in Sub-Saharan Africa changed., 0, policy, mixtral-8x7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Mayor Johnson noted on April 1, 2024, the crime rate in his city declined., 0, policy, mixtral-8x7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to the Federal Reserve, the inflation rate in the US rose in Q2 2024., 0, policy, mixtral-8x7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q3 of 2024, the United Nations envisioned that the global hunger index decreased., 0, policy, mixtral-8x7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The number of renewable energy installations increased in 2023, according to the Department of Energy., 0, policy, mixtral-8x7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Local researcher, Emily Chen, noted that the unemployment rate in her city, Chicago, had remained stable on 2024/08/21., 0, policy, llama-3.1-8b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 21 Aug 2024, the Brookings Institution observed that lobbying intensity at swing districts stayed stable., 0, policy, llama-3.1-8b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Representative Michael Davis recorded that on 08/21/2024, the infrastructure funding distribution in his district increased., 0, policy, llama-3.1-8b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to state representative, Rachel Patel, civic participation at state-level agencies rose in Q3 of 2027., 0, policy, llama-3.1-8b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q4 of 2026, economist Dr. David Kim reported that food assistance claims in urban counties fell., 0, policy, llama-3.1-8b-instruct, NAVI_GATOR, 0, 5
+CSV Row: Renewable energy investments stayed the same in 2029 of Q3, according to Dr. Sophia Rodriguez., 0, policy, llama-3.1-8b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Policy analyst, Dr. Amelia Johnson, observed that the unemployment rate at the city of New York had remained stable in Q2 of 2026., 0, policy, mistral-7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 10/15/2029, policy expert, Mr. David Kim, speculated the inflation rate at the Federal Reserve had changed., 0, policy, mistral-7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Dr. Sarah Lee noted on 7/21/2025, the corporate tax rate at the tech sector had fallen., 0, policy, mistral-7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to research advisor, Dr. Michael Brown, the economic growth rate at the European Union rose in Q4 of 2027., 0, policy, mistral-7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q1 of 2030, policy strategist, Ms. Emily Chen, envisioned that the housing prices at the West Coast had decreased., 0, policy, mistral-7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: In the year 2028, the investment in renewable energy at the United Nations increased, according to policy top executive, Mr. Robert Lee., 0, policy, mistral-7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: The Heritage Foundation noted on 12/15/2025, the healthcare funding at rural clinics had remained stable., 0, policy, mistral-small-3.1, NAVI_GATOR, 0, 1
+CSV Row: On 2027-03-10, the Congressional Research Service saw that the unemployment rate in the Midwest had risen., 0, policy, mistral-small-3.1, NAVI_GATOR, 0, 2
+CSV Row: The American Enterprise Institute recorded that on 01/22/2028, the public school funding in urban districts fell., 0, policy, mistral-small-3.1, NAVI_GATOR, 0, 3
+CSV Row: According to the Brookings Institution, the inflation rate in the tech sector increased in Q2 of 2029., 0, policy, mistral-small-3.1, NAVI_GATOR, 0, 4
+CSV Row: In 2030-07-14, the Cato Institute observed that the minimum wage in the service industry stayed the same., 0, policy, mistral-small-3.1, NAVI_GATOR, 0, 5
+CSV Row: The tax revenue from small businesses decreased in Q4 of 2031, according to the Tax Foundation., 0, policy, mistral-small-3.1, NAVI_GATOR, 0, 6
+CSV Row: Meteorologist Tom Harris observed that the air pressure at Denver had remained stable on 2024-08-20., 0, weather, llama-3.1-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 2023-09-15, Dr. Sophia Rodriguez speculated the precipitation levels at Miami changed., 0, weather, llama-3.1-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: I noted on 2022-07-22, the temperature at Seattle fell., 0, weather, llama-3.1-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to Meteorologist David Lee, the heat index at Atlanta rose in Q2 of 2024., 0, weather, llama-3.1-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In 2023-11, Meteorologist Emily Chen envisioned that the cloud coverage at Chicago decreased., 0, weather, llama-3.1-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The wind gusts in Boston increased on 2024-05-10, according to the Massachusetts Weather Bureau., 0, weather, llama-3.1-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Meteorologist Tom Harris observed that the air pressure at the National Weather Service had remained stable on September 15, 2024., 0, weather, llama-3.3-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On November 22, 2023, Dr. Sophia Rodriguez speculated the precipitation levels at the Weather Channel changed., 0, weather, llama-3.3-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Research Advisor Michael Chen noted on January 10, 2022, the temperature at the University of California fell., 0, weather, llama-3.3-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to Senior Meteorologist Rachel Kim, the wind gusts at the Seoul Meteorological Administration rose in the second quarter of 2024., 0, weather, llama-3.3-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In the summer of 2023, College Student Alex Lee envisioned that the humidity levels at the local weather station decreased., 0, weather, llama-3.3-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: Cloud coverage in Beijing increased on March 12, 2024, according to Meteorologist Daniel Brooks., 0, weather, llama-3.3-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Weather Analyst Smith observed that the temperature in Miami had increased on August 21, 2, 0, weather, mixtral-8x7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: The weather analyst at the National Weather Service observed that the temperature in New York City remained stable on 2024-08-15., 0, weather, llama-3.1-8b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 2023-09-01, the chief meteorologist at the Weather Channel speculated that the precipitation levels in Miami changed., 0, weather, llama-3.1-8b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Dr. Maria Rodriguez, a renowned climate scientist, noted on 2025-02-14 that the wind speed in Chicago fell., 0, weather, llama-3.1-8b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to the director of the National Oceanic and Atmospheric Administration, the air pressure in Los Angeles rose on 2022-06-21., 0, weather, llama-3.1-8b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In 2024, the research team at the University of California, Berkeley envisioned that the humidity in San Francisco decreased., 0, weather, llama-3.1-8b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The temperature in Denver increased on 2023-03-25, according to the senior meteorologist at the National Weather Service., 0, weather, llama-3.1-8b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Dr. Sarah Johnson, a meteorologist at the National Weather Service, observed that the wind speed at O'Hare International Airport had remained stable on August 15, 2025., 0, weather, mistral-7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: According to Dr. James Kim, the temperature at Heathrow Airport changed on June 1, 2026., 0, weather, mistral-7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: On March 20, 2027, the wind chill at JFK Airport fell., 0, weather, mistral-7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: In Q4 of 2028, the heat index at Charles de Gaulle Airport rose., 0, weather, mistral-7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: On November 10, 2029, the cloud coverage at Narita International Airport decreased., 0, weather, mistral-7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: Humidity at Changi Airport increased on July 25, 2030, according to the Singapore Meteorological Service., 0, weather, mistral-7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: The National Weather Service observed that the precipitation in Seattle had remained stable on 09/15/2023., 0, weather, mistral-small-3.1, NAVI_GATOR, 0, 1
+CSV Row: On 03/20/2024, the Weather Channel reported that the barometric pressure at Miami changed., 0, weather, mistral-small-3.1, NAVI_GATOR, 0, 2
+CSV Row: A meteorology professor noted on 05/22/2023, the temperature in Phoenix fell., 0, weather, mistral-small-3.1, NAVI_GATOR, 0, 3
+CSV Row: According to the local weather station, the humidity at Houston rose on 11/12/2022., 0, weather, mistral-small-3.1, NAVI_GATOR, 0, 4
+CSV Row: In 2023 Q4, the National Oceanic and Atmospheric Administration envisioned that the snowfall in Boston decreased., 0, weather, mistral-small-3.1, NAVI_GATOR, 0, 5
+CSV Row: The wind speed in Denver increased on 02/14/2024, according to the Colorado Climate Center., 0, weather, mistral-small-3.1, NAVI_GATOR, 0, 6
+CSV Row: Coach Rachel Thompson observed that the turnover rate at the Golden State Warriors remained stable in 2024 Q2., 0, sport, llama-3.1-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 08/15/2023, Analyst Daniel Lee speculated the passing yards at the Kansas City Chiefs changed., 0, sport, llama-3.1-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Analyst Emily Patel noted on 10/28/2022, the Chicago Bulls' free throw percentage fell., 0, sport, llama-3.1-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to Coach Michael Brown, the rebounding margin at the Los Angeles Lakers rose in the 2022-2023 season., 0, sport, llama-3.1-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In the 2023 offseason, Analyst Kevin White envisioned that the New England Patriots' sack count decreased., 0, sport, llama-3.1-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The save percentage at the Tampa Bay Lightning increased in the 2022 playoffs, according to Analyst Sofia Rodriguez., 0, sport, llama-3.1-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: ESPN analyst, John Smith, observed that the rebounding margin at the Chicago Bulls had risen in September 2022., 0, sport, llama-3.3-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 02/20/2023, Coach Michael Brown speculated the free throw percentage at the Golden State Warriors changed., 0, sport, llama-3.3-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Analyst, Emily Chen, noted on 10/15/2021, the Cleveland Cavaliers' turnover rate fell., 0, sport, llama-3.3-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to NBA expert, David Lee, the block rate at the Toronto Raptors rose in the summer of 2024., 0, sport, llama-3.3-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In the fourth quarter of 2022, College basketball coach, James Davis, envisioned that the three-point shooting percentage at the Duke Blue Devils decreased., 0, sport, llama-3.3-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The passing yards at the New England Patriots increased in the second half of 2023, according to NFL commentator, Bob Johnson., 0, sport, llama-3.3-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: In the third quarter of 2, 0, sport, mixtral-8x7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: Coach Thompson observed that the free throw percentage at the Chicago Bulls stayed stable in 2024-08-21., 0, sport, llama-3.1-8b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 21/08/2024, Analyst Patel speculated the home run count at the Los Angeles Dodgers changed., 0, sport, llama-3.1-8b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Analyst Rodriguez noted on Q3 of 2027, the save percentage at the New York Rangers fell., 0, sport, llama-3.1-8b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to the Miami Heat staff, the three-point percentage at the Miami Heat rose 2024/08/21., 0, sport, llama-3.1-8b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In August 2024, Coach Lee envisioned that the passing yards at the Green Bay Packers decreased., 0, sport, llama-3.1-8b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The corner kick count at the Manchester City FC increased 2029 of Q3, according to Analyst Khan., 0, sport, llama-3.1-8b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Sport analyst Alex Thompson observed that the home run count at the Seattle Mariners had remained stable in Q3 of 2027., 0, sport, mistral-7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 08/21/2024, sport expert Dr. Maria Rodriguez speculated the passing accuracy at the New England Patriots changed., 0, sport, mistral-7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Sport analyst John Lee noted on 2029 of Q3, the goal differential at FC Bayern Munich fell., 0, sport, mistral-7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to sport top executive Mr. James Chen, the win-loss ratio at the Golden State Warriors rose in February 2030., 0, sport, mistral-7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q2 of 2028, sport senior level person Ms. Emily Kim envisioned that the points per game at the Los Angeles Lakers decreased., 0, sport, mistral-7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The foul count at the Milwaukee Bucks increased, according to sport analyst Mr. David Kim on 12/15/2023., 0, sport, mistral-7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: The Chicago Bulls' free throw percentage increased in 2023, according to the team's head coach., 0, sport, mistral-small-3.1, NAVI_GATOR, 0, 1
+CSV Row: On 15/04/2021, the sports analyst noted that the goal count at Manchester United changed., 0, sport, mistral-small-3.1, NAVI_GATOR, 0, 2
+CSV Row: The sports expert noted on 23/09/2022, the New England Patriots' interception rate fell., 0, sport, mistral-small-3.1, NAVI_GATOR, 0, 3
+CSV Row: According to the sports reporter, the penalty count at the Dallas Cowboys rose in Q2 of 2023., 0, sport, mistral-small-3.1, NAVI_GATOR, 0, 4
+CSV Row: In 2022, the sports senior level person envisioned that the Cleveland Cavaliers' field goal percentage decreased., 0, sport, mistral-small-3.1, NAVI_GATOR, 0, 5
+CSV Row: The penalty count at the Philadelphia Eagles surged in 2021, according to the sports top executive., 0, sport, mistral-small-3.1, NAVI_GATOR, 0, 6
+CSV Row: Analyst Rachel Kim observed that the number of customer complaints at Walmart decreased in Q2 of 2022., 0, miscellaneous, llama-3.1-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 10/25/2023, Researcher David Lee speculated the accuracy of the new AI model at Google changed., 0, miscellaneous, llama-3.1-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Professor James Davis noted on 07/15/2021, the sales figures at Amazon fell., 0, miscellaneous, llama-3.1-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to Marketing Manager Emily Patel, the engagement rate on Instagram rose in January 2024., 0, miscellaneous, llama-3.1-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Autumn 2020, Student Council President Alex Chen envisioned that the student body's satisfaction with the cafeteria food decreased., 0, miscellaneous, llama-3.1-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The stock price of Tesla increased on 03/10/2023, according to Financial Advisor Michael Brown., 0, miscellaneous, llama-3.1-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Research advisor, Dr. Rachel Kim, observed that the number of citations for her research paper at Harvard University stayed stable in September 2022., 0, miscellaneous, llama-3.3-70b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On February 27, 2020, senior level person, Michael Davis, speculated the employee engagement at Microsoft changed., 0, miscellaneous, llama-3.3-70b-instruct, NAVI_GATOR, 0, 2
+CSV Row: College student, Emily Patel, noted on October 15, 2021, the sales of Apple watches at Best Buy fell., 0, miscellaneous, llama-3.3-70b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to top executive, James Lee, the revenue of Samsung Electronics rose in the second quarter of 2022., 0, miscellaneous, llama-3.3-70b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In January 2023, miscellaneous analyst, David Hall, envisioned that the stock price of Amazon decreased., 0, miscellaneous, llama-3.3-70b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The customer satisfaction rating of Walmart increased in November 2020, according to store manager, Karen Brown., 0, miscellaneous, llama-3.3-70b-instruct, NAVI_GATOR, 0, 6
+CSV Row: According to the miscellaneous analyst, the number of cybersecurity threats at XYZ Corporation rose in Q2 of 2023., 0, miscellaneous, mixtral-8x7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On 08/21/2024, the miscellaneous reporter noted that the popularity of electric vehicles in the US increased., 0, miscellaneous, mixtral-8x7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: The miscellaneous expert observed that on January 15, 2025, the unemployment rate in Canada fell., 0, miscellaneous, mixtral-8x7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to the miscellaneous top executive, the revenue of ABC Inc. rose in Q1 of 2024., 0, miscellaneous, mixtral-8x7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In Q3 of 2027, the miscellaneous senior level person envisioned that the demand for virtual reality devices decreased., 0, miscellaneous, mixtral-8x7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The number of renewable energy projects in the EU increased in 2024, according to the miscellaneous analyst., 0, miscellaneous, mixtral-8x7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Professor Rachel Kim observed that the overall satisfaction rate at New York University stayed stable in 2024/08/21., 0, miscellaneous, llama-3.1-8b-instruct, NAVI_GATOR, 0, 1
+CSV Row: On Aug 21, 2024, Dr. Eric Thompson speculated the stock prices of Apple Inc. changed., 0, miscellaneous, llama-3.1-8b-instruct, NAVI_GATOR, 0, 2
+CSV Row: Dr. Sophia Patel noted on 21 Aug 2024, the sales figures for the new smartphone model fell., 0, miscellaneous, llama-3.1-8b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to Mr. Liam Chen, the customer loyalty program at Walmart increased in Q3 of 2027., 0, miscellaneous, llama-3.1-8b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In 2029 of Q3, Professor James Davis envisioned that the graduation rates at Harvard University decreased., 0, miscellaneous, llama-3.1-8b-instruct, NAVI_GATOR, 0, 5
+CSV Row: The number of new subscribers to Netflix increased in 2024-08-21, according to Mr. Ethan Hall., 0, miscellaneous, llama-3.1-8b-instruct, NAVI_GATOR, 0, 6
+CSV Row: Dr. Amelia Johnson, a research advisor at the University of Technology, observed that the number of students enrolled in the Computer Science program had remained stable in the academic year 2025-2026., 0, miscellaneous, mistral-7b-instruct, NAVI_GATOR, 0, 1
+CSV Row: Chef David Kim, a renowned culinary expert, speculated that the popularity of vegan cuisine in restaurants had changed significantly in the year 2026., 0, miscellaneous, mistral-7b-instruct, NAVI_GATOR, 0, 2
+CSV Row: In the year 2027, marketing analyst Alex Lee noted that the sales of electric vehicles had fallen in the first quarter., 0, miscellaneous, mistral-7b-instruct, NAVI_GATOR, 0, 3
+CSV Row: According to the CEO of Green Energy Solutions, the demand for solar panels had risen in the year 2028., 0, miscellaneous, mistral-7b-instruct, NAVI_GATOR, 0, 4
+CSV Row: In the year 2029, environmental scientist Dr. Emily Chen envisioned that the air quality in major cities had improved slightly., 0, miscellaneous, mistral-7b-instruct, NAVI_GATOR, 0, 5
+CSV Row: In the year 2030, according to the head of the Space Exploration Agency, the success rate of space missions had increased., 0, miscellaneous, mistral-7b-instruct, NAVI_GATOR, 0, 6
+CSV Row: On 09/15/2023, a senior analyst at Tech Innovators noted that the sales of smartphones at the local electronics store surged., 0, miscellaneous, mistral-small-3.1, NAVI_GATOR, 0, 1
+CSV Row: On 11/10/2022, a market researcher at Global Trends observed that the consumer confidence index in the retail sector had shifted., 0, miscellaneous, mistral-small-3.1, NAVI_GATOR, 0, 2
+CSV Row: A financial advisor at Wealth Management Group noted on 02/25/2022, the stock prices of renewable energy companies fell., 0, miscellaneous, mistral-small-3.1, NAVI_GATOR, 0, 3
+CSV Row: According to the CEO of GreenTech Solutions, the demand for electric vehicles increased in 2021., 0, miscellaneous, mistral-small-3.1, NAVI_GATOR, 0, 4
+CSV Row: In Q2 of 2020, a data scientist at Data Insights envisioned that the number of online transactions at e-commerce platforms decreased., 0, miscellaneous, mistral-small-3.1, NAVI_GATOR, 0, 5
+CSV Row: The customer satisfaction ratings at the local café improved on 07/19/2021, according to the café manager., 0, miscellaneous, mistral-small-3.1, NAVI_GATOR, 0, 6

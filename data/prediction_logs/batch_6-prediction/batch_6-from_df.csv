@@ -1,0 +1,67 @@
+Base Sentence,Sentence Label,Domain,Model Name,API Name,Batch ID,Template Number
+ JPMorgan Chase forecasts that the net profit at Microsoft will decrease in 2024/08/21.,1,finance,gemma2-9b-it,GROQ_CLOUD,0,1
+"On Wed, August 21, 2024,  Bank of America speculates the revenue at Amazon will likely increase.",1,finance,gemma2-9b-it,GROQ_CLOUD,0,2
+" Goldman Sachs predicts on 08/21/2024, the operating income at  Walmart may rise.",1,finance,gemma2-9b-it,GROQ_CLOUD,0,3
+"According to Moody's, the stock price at Tesla would fall in 21 August 2024.",1,finance,gemma2-9b-it,GROQ_CLOUD,0,4
+"In Q3 of 2027,  a financial analyst envisions that the  interest rates at the Federal Reserve has some probability to remain stable.",1,finance,gemma2-9b-it,GROQ_CLOUD,0,5
+JPMorgan forecasts that the revenue at Amazon will decrease in Q3 of 2027.,1,finance,llama-3.3-70b-versatile,GROQ_CLOUD,0,1
+"On 08/15/2024, Citigroup speculates that the net profit at Microsoft will likely increase.",1,finance,llama-3.3-70b-versatile,GROQ_CLOUD,0,2
+"BlackRock predicts on 2024-09-20, the operating income at Johnson & Johnson may rise.",1,finance,llama-3.3-70b-versatile,GROQ_CLOUD,0,3
+"According to Goldman Sachs, the research and development expenses at Alphabet should fall in 2025-08-21.",1,finance,llama-3.3-70b-versatile,GROQ_CLOUD,0,4
+"In 2029-03-15, UBS envisions that the gross profit at Procter & Gamble has some probability to remain stable.",1,finance,llama-3.3-70b-versatile,GROQ_CLOUD,0,5
+"The stock price at Visa should stay the same in 2024/08/22, according to Bank of America.",1,finance,llama-3.3-70b-versatile,GROQ_CLOUD,0,6
+The World Health Organization forecasts that the prevalence of type 2 diabetes at global level potentially decrease in 2029.,1,health,gemma2-9b-it,GROQ_CLOUD,0,1
+"On 12/31/2025, Dr. Smith speculates the average life expectancy in developed countries will likely increase.",1,health,gemma2-9b-it,GROQ_CLOUD,0,2
+"The CDC predicts on 08/21/2024, public awareness of mental health issues may rise.",1,health,gemma2-9b-it,GROQ_CLOUD,0,3
+"According to the American Heart Association, the rates of cardiovascular disease at the national level would fall in 2027.",1,health,gemma2-9b-it,GROQ_CLOUD,0,4
+"In Q4 of 2028, Dr. Jones envisions that the number of childhood vaccinations in the US has some probability to remain stable.",1,health,gemma2-9b-it,GROQ_CLOUD,0,5
+The World Health Organization forecasts that the prevalence of infectious diseases at hospitals potentially decrease in 2024-08-20.,1,health,llama-3.3-70b-versatile,GROQ_CLOUD,0,1
+"On 2025/09/01, a health researcher speculates that the average life expectancy at developed countries will likely increase.",1,health,llama-3.3-70b-versatile,GROQ_CLOUD,0,2
+"A fitness expert predicts on Q2 2027, the national obesity rates may rise.",1,health,llama-3.3-70b-versatile,GROQ_CLOUD,0,3
+"According to a study conducted by Harvard University, the average blood pressure levels at urban health clinics would fall in 2029-08-15.",1,health,llama-3.3-70b-versatile,GROQ_CLOUD,0,4
+"In 2026-06-01, a physician envisions that the nutritional intake at schools has some probability to remain stable.",1,health,llama-3.3-70b-versatile,GROQ_CLOUD,0,5
+"Average physical activity levels among young adults should stay the same in Q3 2028, according to a health analyst.",1,health,llama-3.3-70b-versatile,GROQ_CLOUD,0,6
+The World Bank forecasts that the probability of a global recession will likely decrease in Q4 of 2024.,1,policy,gemma2-9b-it,GROQ_CLOUD,0,1
+"On 08/21/2024, policy analyst David Chen speculates that the approval ratings for the new president will likely increase.",1,policy,gemma2-9b-it,GROQ_CLOUD,0,2
+"Economist Dr. Sarah Lee predicts on 12/31/2027, the consumer confidence index may rise.",1,policy,gemma2-9b-it,GROQ_CLOUD,0,3
+"According to Senator Maria Rodriguez, the public support for stricter gun control laws would fall in January 2026.",1,policy,gemma2-9b-it,GROQ_CLOUD,0,4
+"In 2029, policy strategist James Kim envisions that the adoption rate of artificial intelligence in healthcare has some probability to remain stable.",1,policy,gemma2-9b-it,GROQ_CLOUD,0,5
+"Election commissioner, Michael Davis, forecasts that the voter turnout at swing states potentially decrease in August 2029.",1,policy,llama-3.3-70b-versatile,GROQ_CLOUD,0,1
+"On 2024-09-15, the Federal Reserve speculates the interest rates at commercial banks will likely increase.",1,policy,llama-3.3-70b-versatile,GROQ_CLOUD,0,2
+"Policy analyst, Dr. Sophia Patel, predicts on 2027/08/20, the renewable energy investments at technology firms may rise.",1,policy,llama-3.3-70b-versatile,GROQ_CLOUD,0,3
+"According to research advisor, Dr. David Lee, the unemployment rate at manufacturing sector would fall in Q2 of 2028.",1,policy,llama-3.3-70b-versatile,GROQ_CLOUD,0,4
+"In 2025-11-01, economist, Dr. Rachel Brooks, envisions that healthcare spending has some probability to remain stable.",1,policy,llama-3.3-70b-versatile,GROQ_CLOUD,0,5
+"Cybersecurity investments should stay same in 2029/03/15, according to chief information officer, James Johnson.",1,policy,llama-3.3-70b-versatile,GROQ_CLOUD,0,6
+The National Oceanic and Atmospheric Administration forecasts that the precipitation levels at New Orleans potentially decrease in 08/21/2024.,1,weather,gemma2-9b-it,GROQ_CLOUD,0,1
+"On 21 August 2024, Dr. Emily Carter speculates the temperature at Dallas will likely increase.",1,weather,gemma2-9b-it,GROQ_CLOUD,0,2
+"AccuWeather predicts on 2024/08/21, the wind speed at Chicago may rise.",1,weather,gemma2-9b-it,GROQ_CLOUD,0,3
+"According to Weather Underground, the humidity at Atlanta would fall in 2024-08-21.",1,weather,gemma2-9b-it,GROQ_CLOUD,0,4
+"In 21 August 2024, the American Meteorological Society envisions that the temperature at Seattle has some probability to remain stable.",1,weather,gemma2-9b-it,GROQ_CLOUD,0,5
+The European Weather Agency forecasts that the precipitation levels at London potentially decrease in 2024-09-20.,1,weather,llama-3.3-70b-versatile,GROQ_CLOUD,0,1
+"On 2025 of Q3, Meteorologist Michael Davis speculates that the temperature at Sydney will likely increase.",1,weather,llama-3.3-70b-versatile,GROQ_CLOUD,0,2
+"Dr. Emily Chen, a weather expert, predicts on 08/15/2025, the wind speed at Beijing may rise.",1,weather,llama-3.3-70b-versatile,GROQ_CLOUD,0,3
+"According to the National Oceanic and Atmospheric Administration, the humidity at Tokyo would fall in 2025-06-01.",1,weather,llama-3.3-70b-versatile,GROQ_CLOUD,0,4
+"In 2027 of Q2, the Australian Bureau of Meteorology envisions that the temperature at Melbourne has some probability to remain stable.",1,weather,llama-3.3-70b-versatile,GROQ_CLOUD,0,5
+"Precipitation levels in Paris should stay the same 2029-03-01, according to Meteorologist Dr. Daniel Lee.",1,weather,llama-3.3-70b-versatile,GROQ_CLOUD,0,6
+Analyst John Smith forecasts that the average rebounds per game at the Los Angeles Lakers will decrease in 2024/08/21.,1,sport,gemma2-9b-it,GROQ_CLOUD,0,1
+"On 21 August 2024, Coach Emily Chen speculates the penalty minutes per game at the New York Rangers will likely increase.",1,sport,gemma2-9b-it,GROQ_CLOUD,0,2
+"Analyst David Lee predicts on Wed, August 21, 2024, the goals scored by Lionel Messi may rise.",1,sport,gemma2-9b-it,GROQ_CLOUD,0,3
+"According to Coach Maria Rodriguez, the shooting percentage at the Boston Celtics would fall in Q3 of 2027.",1,sport,gemma2-9b-it,GROQ_CLOUD,0,4
+"In 08/21/2024,  Analyst Michael Brown envisions that the win probability for the  Philadelphia 76ers has some probability to remain stable.",1,sport,gemma2-9b-it,GROQ_CLOUD,0,5
+Coach Thompson forecasts that the points per game at the New York Giants potentially decrease in August 2027.,1,sport,llama-3.3-70b-versatile,GROQ_CLOUD,0,1
+"On 2029-09-15, Analyst Samantha Brown speculates the win rate at the Los Angeles Lakers will likely increase.",1,sport,llama-3.3-70b-versatile,GROQ_CLOUD,0,2
+"Analyst David Lee predicts on 08/20/2028, the touchdown count at the New England Patriots may rise.",1,sport,llama-3.3-70b-versatile,GROQ_CLOUD,0,3
+"According to Coach Michael Davis, the scoring average at the Houston Rockets would fall in Q3 of 2026.",1,sport,llama-3.3-70b-versatile,GROQ_CLOUD,0,4
+"In 2027-10-01, Coach Rachel Patel envisions that the goal average at the Barcelona soccer team has some probability to remain stable.",1,sport,llama-3.3-70b-versatile,GROQ_CLOUD,0,5
+"The win percentage at the Denver Broncos should stay the same in 2025-09-20, according to Analyst Kevin White.",1,sport,llama-3.3-70b-versatile,GROQ_CLOUD,0,6
+ Economist David Chen forecasts that the inflation rate in the United States will decrease in Q3 of 2027.,1,miscellaneous,gemma2-9b-it,GROQ_CLOUD,0,1
+"On 08/21/2024,  Dr. Emily Carter speculates that the global temperature will likely increase.",1,miscellaneous,gemma2-9b-it,GROQ_CLOUD,0,2
+"Professor James Wilson predicts on 12/31/2029, the enrollment at Stanford University may rise.",1,miscellaneous,gemma2-9b-it,GROQ_CLOUD,0,3
+"According to Marketing Director Sarah Lee, the sales of electric vehicles would fall in  2024-08-21.",1,miscellaneous,gemma2-9b-it,GROQ_CLOUD,0,4
+"In 2029 of Q3, Historian Michael Brown envisions that the number of historical artifacts discovered has some probability to remain stable.",1,miscellaneous,gemma2-9b-it,GROQ_CLOUD,0,5
+"Research advisor, Dr. Rachel Kim, forecasts that the number of published papers at Harvard University potentially decrease in Q3 of 2027.",1,miscellaneous,llama-3.3-70b-versatile,GROQ_CLOUD,0,1
+"On August 15, 2024, senior level person, Mr. David Lee, speculates that the revenue at Samsung will likely increase.",1,miscellaneous,llama-3.3-70b-versatile,GROQ_CLOUD,0,2
+"College student, Emily Patel, predicts on November 20, 2025, the stock price at Amazon may rise.",1,miscellaneous,llama-3.3-70b-versatile,GROQ_CLOUD,0,3
+"According to top executive, Ms. Sophia Rodriguez, the unemployment rate at New York City would fall in 2029.",1,miscellaneous,llama-3.3-70b-versatile,GROQ_CLOUD,0,4
+"In January 2026, expert, Dr. Michael Brown, envisions that the temperature in Los Angeles has some probability to remain stable.",1,miscellaneous,llama-3.3-70b-versatile,GROQ_CLOUD,0,5
+"The chances of getting an A in the final exam should stay same in Spring 2028, according to professor, Dr. Lisa Nguyen.",1,miscellaneous,llama-3.3-70b-versatile,GROQ_CLOUD,0,6

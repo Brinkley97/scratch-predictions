@@ -1,0 +1,7 @@
+2025-07-05 19:22:14,809 - INFO - Logging configured to save to: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/data/prediction_logs
+2025-07-05 19:22:14,812 - INFO - DataFrame successfully written to CSV: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/data/prediction_logs/batch_5-prediction/batch_5-from_df.csv
+2025-07-05 19:22:14,813 - INFO - CSV content successfully written to log file: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/data/prediction_logs/batch_5-prediction/batch_5-from_csv.log
+2025-07-09 12:17:15,405 - INFO - Logging configured to save to: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/pipelines/../data/prediction_logs
+2025-07-09 12:17:15,405 - INFO - CSV file successfully read into DataFrame: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/pipelines/../data/prediction_logs/batch_5-prediction/batch_5-from_df.csv
+2025-07-09 12:17:55,215 - INFO - Logging configured to save to: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/pipelines/../data/prediction_logs
+2025-07-09 12:17:55,215 - INFO - CSV file successfully read into DataFrame: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/predictions/pipelines/../data/prediction_logs/batch_5-prediction/batch_5-from_df.csv
