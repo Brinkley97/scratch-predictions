@@ -1,0 +1,73 @@
+CSV Row: Base Sentence, Sentence Label, Domain, Model Name, API Name, Batch ID, Template Number
+CSV Row:  Morgan Stanley observed that the revenue at Tesla remained stable in Q4 2023., 0, finance, gemma2-9b-it, GROQ_CLOUD, 0, 1
+CSV Row: On 08/21/2024, Bloomberg analysts monitored the net profit at Amazon changed., 0, finance, gemma2-9b-it, GROQ_CLOUD, 0, 2
+CSV Row: JP Morgan noted on 12/31/2022, the market capitalization at Alphabet fell., 0, finance, gemma2-9b-it, GROQ_CLOUD, 0, 3
+CSV Row: According to Goldman Sachs, the operating income at Microsoft rose in 2024., 0, finance, gemma2-9b-it, GROQ_CLOUD, 0, 4
+CSV Row: In June 2027,  a financial researcher envisioned that the inflation rate at the Federal Reserve decreased., 0, finance, gemma2-9b-it, GROQ_CLOUD, 0, 5
+CSV Row: The stock price of Apple increased in  2025, according to my records., 0, finance, gemma2-9b-it, GROQ_CLOUD, 0, 6
+CSV Row: Morgan Stanley observed that the revenue at Amazon had increased in Q2 2029., 0, finance, llama-3.1-8b-instant, GROQ_CLOUD, 0, 1
+CSV Row: On 2/20/2026, Goldman Sachs monitored the operating cash flow at Walmart and saw it decreased., 0, finance, llama-3.1-8b-instant, GROQ_CLOUD, 0, 2
+CSV Row: Charles Schwab noted on 1/12/2028, the NASDAQ composite index fell., 0, finance, llama-3.1-8b-instant, GROQ_CLOUD, 0, 3
+CSV Row: According to Fidelity, the returns at emerging market equities rose in June 2030., 0, finance, llama-3.1-8b-instant, GROQ_CLOUD, 0, 4
+CSV Row: In Q4 2018, BlackRock envisioned that the inflation rate at the Federal Reserve decreased., 0, finance, llama-3.1-8b-instant, GROQ_CLOUD, 0, 5
+CSV Row: The stock price at Apple increased in 10/12/2025, according to Citigroup., 0, finance, llama-3.1-8b-instant, GROQ_CLOUD, 0, 6
+CSV Row: The World Health Organization observed that the obesity rates in Europe remained stable from 2022 to 2023., 0, health, gemma2-9b-it, GROQ_CLOUD, 0, 1
+CSV Row: On 12/31/2023, the CDC monitored that the flu vaccination adherence at rural clinics in the South increased., 0, health, gemma2-9b-it, GROQ_CLOUD, 0, 2
+CSV Row: Dr. Smith noted on 09/15/2024, the prevalence of heart disease fell., 0, health, gemma2-9b-it, GROQ_CLOUD, 0, 3
+CSV Row: According to the American Heart Association, the cholesterol levels at hospitals in New York rose in Summer 2025., 0, health, gemma2-9b-it, GROQ_CLOUD, 0, 4
+CSV Row: In Q2 2026, Professor Jones envisioned that the average physical activity levels among teenagers decreased., 0, health, gemma2-9b-it, GROQ_CLOUD, 0, 5
+CSV Row: The number of mental health consultations at universities increased in Fall 2027, according to a study conducted by the National Institute of Mental Health., 0, health, gemma2-9b-it, GROQ_CLOUD, 0, 6
+CSV Row: The CDC observed that the rate of childhood obesity at urban elementary schools had remained stable in Q2 2020., 0, health, llama-3.1-8b-instant, GROQ_CLOUD, 0, 1
+CSV Row: On 11/17/2019, Dr. Rachel Kim monitored the prevalence of diabetes at rural hospitals changed., 0, health, llama-3.1-8b-instant, GROQ_CLOUD, 0, 2
+CSV Row: Dr. Patel noted on 4/12/2028, the number of patients with hypertension at the state level fell., 0, health, llama-3.1-8b-instant, GROQ_CLOUD, 0, 3
+CSV Row: According to my study of wellness habits, the average daily water intake at university dorms rose in Spring 2026., 0, health, llama-3.1-8b-instant, GROQ_CLOUD, 0, 4
+CSV Row: In Q3 2025, Professor Lee envisioned that the rate of vaccination adherence at urban high schools decreased., 0, health, llama-3.1-8b-instant, GROQ_CLOUD, 0, 5
+CSV Row: Physical activity levels among children increased on 9/15/2018, according to the study conducted by Dr. David Hall., 0, health, llama-3.1-8b-instant, GROQ_CLOUD, 0, 6
+CSV Row: The Center for Strategic and International Studies observed that the trade deficit with China decreased on 12/31/2029., 0, policy, gemma2-9b-it, GROQ_CLOUD, 0, 1
+CSV Row: On 08/21/2024, the World Bank monitored the inflation rate in emerging markets changed., 0, policy, gemma2-9b-it, GROQ_CLOUD, 0, 2
+CSV Row: The Brookings Institution noted on 05/15/2028, the unemployment rate in the manufacturing sector fell., 0, policy, gemma2-9b-it, GROQ_CLOUD, 0, 3
+CSV Row: According to the International Monetary Fund, the GDP growth in the Eurozone rose in Q2 2031., 0, policy, gemma2-9b-it, GROQ_CLOUD, 0, 4
+CSV Row: In 04/10/2023, policy analyst Sarah Chen envisioned that the renewable energy adoption rate decreased., 0, policy, gemma2-9b-it, GROQ_CLOUD, 0, 5
+CSV Row:  The public debt-to-GDP ratio increased in 2027, according to the Congressional Budget Office., 0, policy, gemma2-9b-it, GROQ_CLOUD, 0, 6
+CSV Row: Local economist, Emily, observed that the economic growth at Harvard University had remained stable in Q2 2028., 0, policy, llama-3.1-8b-instant, GROQ_CLOUD, 0, 1
+CSV Row: On 2/15/2031, the Center for American Progress noted that government funding at urban schools stayed stable., 0, policy, llama-3.1-8b-instant, GROQ_CLOUD, 0, 2
+CSV Row: Representative David Kim recorded that on 11/22/2025, the tax incentives for renewable energy projects in his district declined., 0, policy, llama-3.1-8b-instant, GROQ_CLOUD, 0, 3
+CSV Row: According to policy advisor James Davis, the public health outcomes at community health centers increased in the second quarter of 2029., 0, policy, llama-3.1-8b-instant, GROQ_CLOUD, 0, 4
+CSV Row: In Q4 of 2027, policy analyst Sophia Patel reported that her organization's advocacy efforts for environmental protection fell., 0, policy, llama-3.1-8b-instant, GROQ_CLOUD, 0, 5
+CSV Row: Renewable energy investments in the European Union rose in 2026, according to the International Renewable Energy Agency., 0, policy, llama-3.1-8b-instant, GROQ_CLOUD, 0, 6
+CSV Row: The National Weather Service observed that the precipitation in New Orleans remained stable on 08/21/2024., 0, weather, gemma2-9b-it, GROQ_CLOUD, 0, 1
+CSV Row: On 09/15/2023,  Dr. Emily Carter monitored the temperature in Seattle changed., 0, weather, gemma2-9b-it, GROQ_CLOUD, 0, 2
+CSV Row: The weather team noted on 06/01/2024, the wind speed in Atlanta fell., 0, weather, gemma2-9b-it, GROQ_CLOUD, 0, 3
+CSV Row: According to Professor David Lee, the humidity in Miami rose on 12/25/2025., 0, weather, gemma2-9b-it, GROQ_CLOUD, 0, 4
+CSV Row: In 04/10/2026, Meteorologist Sarah Chen envisioned that the cloud coverage in Boston decreased., 0, weather, gemma2-9b-it, GROQ_CLOUD, 0, 5
+CSV Row: The air pressure in Phoenix increased on 03/18/2024, according to  the Arizona Department of Environmental Quality., 0, weather, gemma2-9b-it, GROQ_CLOUD, 0, 6
+CSV Row: The storm chaser observed that the temperature at the National Weather Service had remained stable on August 19, 2024., 0, weather, llama-3.1-8b-instant, GROQ_CLOUD, 0, 1
+CSV Row: On 2024-09-01, Meteorologist Emily Chen reported that the precipitation at the local park rose., 0, weather, llama-3.1-8b-instant, GROQ_CLOUD, 0, 2
+CSV Row: Anna, a research assistant, noted that on 2023-06-15, the wind gusts at the airport decreased., 0, weather, llama-3.1-8b-instant, GROQ_CLOUD, 0, 3
+CSV Row: According to Dr. Michael Brown, the heat index at the university campus rose in Q2 of 2026., 0, weather, llama-3.1-8b-instant, GROQ_CLOUD, 0, 4
+CSV Row: In 2025-03-20, I observed that the humidity at the botanical garden stayed consistent., 0, weather, llama-3.1-8b-instant, GROQ_CLOUD, 0, 5
+CSV Row: Temperature in the city increased on 2022-07-25, according to the city's weather service., 0, weather, llama-3.1-8b-instant, GROQ_CLOUD, 0, 6
+CSV Row:  Analyst Jennifer Garcia observed that the turnover rate at the Chicago Bulls remained stable in September 2024., 0, sport, gemma2-9b-it, GROQ_CLOUD, 0, 1
+CSV Row: On 10/15/2023, Coach Michael Thompson noted that the free throw percentage at the Phoenix Suns increased., 0, sport, gemma2-9b-it, GROQ_CLOUD, 0, 2
+CSV Row: Analyst David Miller noted that on 08/21/2024, the goal differential at Manchester United fell., 0, sport, gemma2-9b-it, GROQ_CLOUD, 0, 3
+CSV Row: According to Coach Emily Chen, the assists per game at the Dallas Mavericks rose in April 2025., 0, sport, gemma2-9b-it, GROQ_CLOUD, 0, 4
+CSV Row: In June 2026,  Analyst Kevin Rodriguez envisioned that the batting average at the Atlanta Braves decreased., 0, sport, gemma2-9b-it, GROQ_CLOUD, 0, 5
+CSV Row: The penalty minutes at the Toronto Maple Leafs increased in December 2023, according to Coach James Lee., 0, sport, gemma2-9b-it, GROQ_CLOUD, 0, 6
+CSV Row: The batting average at the Chicago Cubs rose on 09/15/2024, according to Analyst Rachel Hall., 0, sport, llama-3.1-8b-instant, GROQ_CLOUD, 0, 1
+CSV Row: On 2027-02-18, the pass completion percentage at the Green Bay Packers fell, as observed by Coach Eric Thompson., 0, sport, llama-3.1-8b-instant, GROQ_CLOUD, 0, 2
+CSV Row: Coach Daniel Brown noted that on 08/25/2023, the home run count at the Los Angeles Dodgers decreased., 0, sport, llama-3.1-8b-instant, GROQ_CLOUD, 0, 3
+CSV Row: According to the Miami Heat staff, the three-point shooting percentage at the Miami Heat improved in January 2025., 0, sport, llama-3.1-8b-instant, GROQ_CLOUD, 0, 4
+CSV Row: In Q2 of 2028, Analyst Michael Davis recorded that the save percentage at the Toronto Maple Leafs stayed consistent., 0, sport, llama-3.1-8b-instant, GROQ_CLOUD, 0, 5
+CSV Row: The serve accuracy at the University of California, Berkeley, volleyball team increased in April 2026, according to Team Captain Emily Chen., 0, sport, llama-3.1-8b-instant, GROQ_CLOUD, 0, 6
+CSV Row: Dr. Emily Carter noted that the approval ratings for Mayor Johnson at City Hall fell in October 2023., 0, miscellaneous, gemma2-9b-it, GROQ_CLOUD, 0, 1
+CSV Row: On 12/15/2022,  Professor David Chen monitored the average GPA at Stanford University changed slightly., 0, miscellaneous, gemma2-9b-it, GROQ_CLOUD, 0, 2
+CSV Row: The popularity of the new smartphone decreased in June 2024, according to Tech Analyst Jessica Lee., 0, miscellaneous, gemma2-9b-it, GROQ_CLOUD, 0, 3
+CSV Row: According to Chef Marco Rossi, the sales of the signature lasagna at his restaurant rose in December 2021., 0, miscellaneous, gemma2-9b-it, GROQ_CLOUD, 0, 4
+CSV Row: In Spring 2023, Research Advisor Dr. Anya Petrova envisioned that the number of research grants awarded to her department decreased., 0, miscellaneous, gemma2-9b-it, GROQ_CLOUD, 0, 5
+CSV Row: The number of daily active users on the social media platform increased in Q1 of 2025, according to CEO Andrew Wilson., 0, miscellaneous, gemma2-9b-it, GROQ_CLOUD, 0, 6
+CSV Row: Professor Daniel Brown noted that the attendance rates at State University stayed stable in 2029., 0, miscellaneous, llama-3.1-8b-instant, GROQ_CLOUD, 0, 1
+CSV Row: On 11/15/2023, Research Advisor Rachel Patel observed that the average reading speed at the library remained consistent., 0, miscellaneous, llama-3.1-8b-instant, GROQ_CLOUD, 0, 2
+CSV Row: Dr. Eric Taylor recorded that on 8/28/2020, the customer satisfaction ratings at Walmart dropped., 0, miscellaneous, llama-3.1-8b-instant, GROQ_CLOUD, 0, 3
+CSV Row: According to Professor James Reed, the frequency of defective products at the factory increased in Q2 of 2025., 0, miscellaneous, llama-3.1-8b-instant, GROQ_CLOUD, 0, 4
+CSV Row: In January 2022, Senior Researcher David Kim reported that the stock prices of Apple Inc. rose., 0, miscellaneous, llama-3.1-8b-instant, GROQ_CLOUD, 0, 5
+CSV Row: The number of students enrolled in the online course decreased in 2024, according to Professor Emily Chen., 0, miscellaneous, llama-3.1-8b-instant, GROQ_CLOUD, 0, 6

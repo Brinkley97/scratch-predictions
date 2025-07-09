@@ -1,0 +1,67 @@
+Base Sentence,Sentence Label,Domain,Model Name,API Name,Batch ID,Template Number
+ Goldman Sachs forecasts that the net profit at JPMorgan Chase potentially decrease in 2024/08/21.,1,finance,gemma2-9b-it,GROQ_CLOUD,0,1
+"On 21 August 2024, Morgan Stanley speculates the revenue at Microsoft will likely increase.",1,finance,gemma2-9b-it,GROQ_CLOUD,0,2
+" BlackRock predicts on 08/21/2024, the  stock price of Amazon may rise.",1,finance,gemma2-9b-it,GROQ_CLOUD,0,3
+"According to JP Morgan, the operating income at Netflix would fall in Wed, August 21, 2024.",1,finance,gemma2-9b-it,GROQ_CLOUD,0,4
+"In Q3 of 2027, Wells Fargo envisions that the inflation rate in the US has some probability to remain stable.",1,finance,gemma2-9b-it,GROQ_CLOUD,0,5
+JPMorgan forecasts that the revenue at Microsoft potentially decrease in Q3 of 2027.,1,finance,llama-3.3-70b-versatile,GROQ_CLOUD,0,1
+"On August 20, 2024, to August 20, 2025, Citigroup speculates that the net profit at Johnson & Johnson will likely increase.",1,finance,llama-3.3-70b-versatile,GROQ_CLOUD,0,2
+"Bank of America predicts on 2024-09-15, the operating income at Visa may rise.",1,finance,llama-3.3-70b-versatile,GROQ_CLOUD,0,3
+"According to Goldman Sachs, the research and development expenses at Alphabet would fall in 2025-08-21.",1,finance,llama-3.3-70b-versatile,GROQ_CLOUD,0,4
+"In 2029-03-20, Wells Fargo envisions that the stock price at Procter & Gamble has some probability to remain stable.",1,finance,llama-3.3-70b-versatile,GROQ_CLOUD,0,5
+"The gross profit at Coca-Cola should stay the same in 2024/08/22, according to Morgan Stanley.",1,finance,llama-3.3-70b-versatile,GROQ_CLOUD,0,6
+The World Health Organization forecasts that the prevalence of diabetes at global level potentially decrease in 2027.,1,health,gemma2-9b-it,GROQ_CLOUD,0,1
+"On 12/31/2025, Dr. Smith speculates the average physical activity levels in urban areas will likely increase.",1,health,gemma2-9b-it,GROQ_CLOUD,0,2
+"The CDC predicts on 08/21/2024, the obesity rates at the national level may rise.",1,health,gemma2-9b-it,GROQ_CLOUD,0,3
+"According to Dr. Jones, the average life expectancy in developed countries would fall in 2030.",1,health,gemma2-9b-it,GROQ_CLOUD,0,4
+"In Q4 of 2028, Dr. Brown envisions that the incidence of heart disease in the United States has some probability to remain stable.",1,health,gemma2-9b-it,GROQ_CLOUD,0,5
+The World Health Organization forecasts that the prevalence of infectious diseases at hospitals potentially decrease in 2025-08-15.,1,health,llama-3.3-70b-versatile,GROQ_CLOUD,0,1
+"On 2024-09-20, a health researcher speculates that the average mental health awareness at universities will likely increase.",1,health,llama-3.3-70b-versatile,GROQ_CLOUD,0,2
+"A fitness expert predicts on 2027-06-01, the obesity rates at the national level may rise.",1,health,llama-3.3-70b-versatile,GROQ_CLOUD,0,3
+"According to a study conducted by the National Institutes of Health, the average physical activity levels at rural areas would fall in Q2 2028.",1,health,llama-3.3-70b-versatile,GROQ_CLOUD,0,4
+"In 2029-11-15, a health analyst envisions that the nutritional intake at urban health centers has some probability to remain stable.",1,health,llama-3.3-70b-versatile,GROQ_CLOUD,0,5
+"Average life expectancy should stay the same in 2030-03-10, according to a report by the Centers for Disease Control and Prevention.",1,health,llama-3.3-70b-versatile,GROQ_CLOUD,0,6
+The World Bank forecasts that the inflation rate in emerging markets could decrease in 2024.,1,policy,gemma2-9b-it,GROQ_CLOUD,0,1
+"On 10/26/2023, analyst David Chen speculates that the approval ratings of the current administration will likely increase.",1,policy,gemma2-9b-it,GROQ_CLOUD,0,2
+" Economist Dr. Sarah Lee predicts on 08/21/2024, the stock market performance may rise.",1,policy,gemma2-9b-it,GROQ_CLOUD,0,3
+"According to Senator Maria Rodriguez, the unemployment rate in the manufacturing sector would fall in Q4 of 2027.",1,policy,gemma2-9b-it,GROQ_CLOUD,0,4
+"In 08/21/2024, policy expert John Kim envisions that the public support for renewable energy policies has some probability to remain stable.",1,policy,gemma2-9b-it,GROQ_CLOUD,0,5
+Analyst Michael Davis forecasts that the economic growth at emerging markets potentially decrease in Q4 of 2028.,1,policy,llama-3.3-70b-versatile,GROQ_CLOUD,0,1
+"On August 15, 2026, the International Energy Agency speculates that investment activity in renewable energy will likely increase.",1,policy,llama-3.3-70b-versatile,GROQ_CLOUD,0,2
+"Senator Emily Patel predicts that on November 20, 2029, the defense budget allocation at her state may rise.",1,policy,llama-3.3-70b-versatile,GROQ_CLOUD,0,3
+"According to policy advisor David Lee, the public trust in social media companies would fall in late 2027.",1,policy,llama-3.3-70b-versatile,GROQ_CLOUD,0,4
+"In 2025-09-10, economist Dr. Sophia Rodriguez envisions that inflation rates in the technology sector have some probability to remain stable.",1,policy,llama-3.3-70b-versatile,GROQ_CLOUD,0,5
+"Cybersecurity investments should stay same in Q2 of 2030, according to Dr. Daniel Kim.",1,policy,llama-3.3-70b-versatile,GROQ_CLOUD,0,6
+The National Oceanic and Atmospheric Administration forecasts that the precipitation levels at New Orleans potentially decrease in 2024/08/21.,1,weather,gemma2-9b-it,GROQ_CLOUD,0,1
+"On 21 August 2024,  Dr. Emily Chen speculates that the temperature at Dallas will likely increase.",1,weather,gemma2-9b-it,GROQ_CLOUD,0,2
+"The AccuWeather team predicts on 08/21/2024, the wind speed at Seattle may rise.",1,weather,gemma2-9b-it,GROQ_CLOUD,0,3
+"According to Mr. James Taylor, the humidity at Atlanta would fall in 2024-08-21.",1,weather,gemma2-9b-it,GROQ_CLOUD,0,4
+"In 21 August 2024, Professor Sarah Lee envisions that the temperature at Chicago has some probability to remain stable.",1,weather,gemma2-9b-it,GROQ_CLOUD,0,5
+The Weather Channel forecasts that the precipitation levels at Dallas potentially decrease in 2024-09-15.,1,weather,llama-3.3-70b-versatile,GROQ_CLOUD,0,1
+"On 2025 of March, Dr. Emily Taylor speculates that the temperature at San Diego will likely increase.",1,weather,llama-3.3-70b-versatile,GROQ_CLOUD,0,2
+"Meteorologist Michael Davis predicts on 08/20/2025, the wind speed at Chicago may rise.",1,weather,llama-3.3-70b-versatile,GROQ_CLOUD,0,3
+"According to AccuWeather, the humidity at New York would fall in Q3 of 2026.",1,weather,llama-3.3-70b-versatile,GROQ_CLOUD,0,4
+"In 2027/08/22, Dr. Sophia Rodriguez envisions that the precipitation levels at Los Angeles have some probability to remain stable.",1,weather,llama-3.3-70b-versatile,GROQ_CLOUD,0,5
+"Temperature in Denver should stay same in 2025-10-12, according to the National Weather Service.",1,weather,llama-3.3-70b-versatile,GROQ_CLOUD,0,6
+Analyst Jessica Lee forecasts that the points per game at the New York Knicks will potentially decrease in Q3 of 2028.,1,sport,gemma2-9b-it,GROQ_CLOUD,0,1
+"On 08/21/2024, Coach Michael Chen speculates the win rate at the Los Angeles Lakers will likely increase.",1,sport,gemma2-9b-it,GROQ_CLOUD,0,2
+" Analyst Sarah Wilson predicts on 2029/08/21, the goal average at FC Barcelona will rise.",1,sport,gemma2-9b-it,GROQ_CLOUD,0,3
+"According to Coach Emily Davis, the touchdown rate at the Philadelphia Eagles would fall in 2025 of December.",1,sport,gemma2-9b-it,GROQ_CLOUD,0,4
+"In 2030 of November, Analyst David Rodriguez envisions that the scoring average at the Boston Celtics has some probability to remain stable.",1,sport,gemma2-9b-it,GROQ_CLOUD,0,5
+Analyst Samantha Thompson forecasts that the point average at the Los Angeles Lakers potentially decrease in August 2027.,1,sport,llama-3.3-70b-versatile,GROQ_CLOUD,0,1
+"On 2024-09-15, Coach Michael Davis speculates the touchdown rate at the New England Patriots will likely increase.",1,sport,llama-3.3-70b-versatile,GROQ_CLOUD,0,2
+"Coach Emily Patel predicts on 08/20/2028, the win ratio at the New York Yankees may rise.",1,sport,llama-3.3-70b-versatile,GROQ_CLOUD,0,3
+"According to Analyst Kevin White, the goal count at the Barcelona football team would fall in Q3 of 2026.",1,sport,llama-3.3-70b-versatile,GROQ_CLOUD,0,4
+"In 2025/09, Analyst Rachel Lee envisions that the score average at the Boston Celtics has some probability to remain stable.",1,sport,llama-3.3-70b-versatile,GROQ_CLOUD,0,5
+"The scoring average at the Arsenal football team should stay the same in 2029-10-12, according to Coach James Wilson.",1,sport,llama-3.3-70b-versatile,GROQ_CLOUD,0,6
+ Financial analyst David Chen forecasts that the stock price of Tesla will decrease in Q3 of 2027.,1,miscellaneous,gemma2-9b-it,GROQ_CLOUD,0,1
+"On 08/21/2024,  Dr. Emily Carter speculates the global temperature will likely increase.",1,miscellaneous,gemma2-9b-it,GROQ_CLOUD,0,2
+"Professor James Lee predicts on 08/21/2024, the enrollment at Harvard University may rise.",1,miscellaneous,gemma2-9b-it,GROQ_CLOUD,0,3
+"According to  Marketing Manager Sarah Jones, the sales of electric vehicles will fall in December 2029.",1,miscellaneous,gemma2-9b-it,GROQ_CLOUD,0,4
+"In 2029 of Q3,  student advisor Maria Rodriguez envisions that the graduation rate at  State University has some probability to remain stable.",1,miscellaneous,gemma2-9b-it,GROQ_CLOUD,0,5
+"Research advisor, Dr. Rachel Kim, forecasts that the number of published papers at Harvard University potentially decrease in Q3 of 2027.",1,miscellaneous,llama-3.3-70b-versatile,GROQ_CLOUD,0,1
+"On August 15, 2024, senior level person, Michael Davis, speculates that the sales revenue at Walmart will likely increase.",1,miscellaneous,llama-3.3-70b-versatile,GROQ_CLOUD,0,2
+"College student, Emily Chen, predicts on November 20, 2025, the average GPA at Stanford University may rise.",1,miscellaneous,llama-3.3-70b-versatile,GROQ_CLOUD,0,3
+"According to top executive, James Lee, the employee turnover rate at Google would fall in 2029.",1,miscellaneous,llama-3.3-70b-versatile,GROQ_CLOUD,0,4
+"In January 2026, expert, David Hall, envisions that the interest rates at Bank of America have some probability to remain stable.",1,miscellaneous,llama-3.3-70b-versatile,GROQ_CLOUD,0,5
+"The stock price of Microsoft should stay same in October 2028, according to analyst, Kevin White.",1,miscellaneous,llama-3.3-70b-versatile,GROQ_CLOUD,0,6

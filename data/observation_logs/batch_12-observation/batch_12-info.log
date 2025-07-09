@@ -1,0 +1,3 @@
+2025-07-09 13:10:58,566 - INFO - Logging configured to save to: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/scratch-predictions/predictions/../data//observation_logs
+2025-07-09 13:10:58,567 - INFO - DataFrame successfully written to CSV: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/scratch-predictions/predictions/../data//observation_logs/batch_12-observation/batch_12-from_df.csv
+2025-07-09 13:10:58,567 - INFO - CSV content successfully written to log file: /Users/detraviousjamaribrinkley/Documents/Development/research_labs/uf_ds/scratch-predictions/predictions/../data//observation_logs/batch_12-observation/batch_12-from_csv.log
