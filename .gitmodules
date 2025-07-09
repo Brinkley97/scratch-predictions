@@ -1,0 +1,3 @@
+[submodule "predictions"]
+	path = predictions
+	url = https://github.com/ufdatastudio/predictions.git
